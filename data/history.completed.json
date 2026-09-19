@@ -1,0 +1,1944 @@
+{
+  "schema_version": "jev-upwork-state/1",
+  "source": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+  "aggregates": {
+    "contracts": 101,
+    "contracts_with_reward": 101,
+    "contracts_with_hours": 20,
+    "contracts_with_both_reward_and_hours": 20,
+    "rewards_total_usd": 30415.63,
+    "hours_total": 1174.0,
+    "reward_weighted_rate_usd": 17.99,
+    "realized_rate_p10_usd": 9.0,
+    "realized_rate_median_usd": 17.01,
+    "realized_rate_p90_usd": 22.08,
+    "rating_mean": 4.82,
+    "ratings_count": 56,
+    "contracts_with_written_feedback": 78,
+    "contracts_title_only_description": 18,
+    "first_start_date": "2020-08-11",
+    "last_end_date": "2026-01-13",
+    "note": "Reward-weighted rate is the only trustworthy realized rate. Most contracts carry zero hours because they were fixed-price, so the per-contract realized-rate percentiles come from a small subset."
+  },
+  "contracts": [
+    {
+      "case_id": "contract:~1955818084626717987",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1955818084626717987"
+      },
+      "project_title": "Scrap Website Data",
+      "project_description": "Scrap Website Data",
+      "description_is_title_only": true,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 40.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2025-08-14",
+      "end_date": "2026-01-13",
+      "contract_days": 152,
+      "project_link": "https://www.upwork.com/jobs/~1955818084626717987"
+    },
+    {
+      "case_id": "contract:~021547617211044401152",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021547617211044401152"
+      },
+      "project_title": "Website with basic database for education",
+      "project_description": "This is intended for a classroom exercise where students can log in and register (the admin page allows monitoring/approval behind the scene). The activity requires a basic interaction with the database - specifically, students/participants observe basic information on their login pages, process them and submit their outcomes in two textboxes. The platform stores the submitted information and applies an aggregation and posts the results to each participant to view and repeat the same process. \n\nThe web interface needs to be simple. The database can be developed in any language i.e. python, Microsoft, php, etc.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 3261.08,
+      "total_hours": 147.67,
+      "effective_hourly_usd": 22.08,
+      "start_date": "2022-07-19",
+      "end_date": "2025-12-09",
+      "contract_days": 1239,
+      "project_link": "https://www.upwork.com/jobs/~021547617211044401152"
+    },
+    {
+      "case_id": "contract:~1773224113039028224",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1773224113039028224"
+      },
+      "project_title": "Full-stack developer for web application",
+      "project_description": "Full-stack developer for web application",
+      "description_is_title_only": true,
+      "client_feedback": "Ekky is a hardworking full-stack developer who takes the time to understand the business logic behind the code. He approaches tasks with dedication and delivers solid results. A reliable developer and a pleasure to work with.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 7973.32,
+      "total_hours": 398.67,
+      "effective_hourly_usd": 20.0,
+      "start_date": "2024-03-28",
+      "end_date": "2025-09-05",
+      "contract_days": 526,
+      "project_link": "https://www.upwork.com/jobs/~1773224113039028224"
+    },
+    {
+      "case_id": "contract:~021840199572385832820",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021840199572385832820"
+      },
+      "project_title": "Experienced Full Stack Developer",
+      "project_description": "Looking for experienced full-stack developer or a brand new project in cybersecurity field. Ideal developer must be proficient with secure coding practices, Python, Django, Rest API's, PostgreSQL, Tailwind and AWS deployments.\n\nInitial duration of the project is supposed to be 1-3 months, though seeking someone for long-term engagement and/or potential permanent hire.\n\nNo agencies.",
+      "description_is_title_only": false,
+      "client_feedback": "Abandoned project when things got serious",
+      "client_feedback_rating": 3.0,
+      "project_reward_usd": 2589.0,
+      "total_hours": 143.83,
+      "effective_hourly_usd": 18.0,
+      "start_date": "2024-09-30",
+      "end_date": "2025-03-25",
+      "contract_days": 176,
+      "project_link": "https://www.upwork.com/jobs/~021840199572385832820"
+    },
+    {
+      "case_id": "contract:~1882751016750498267",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1882751016750498267"
+      },
+      "project_title": "Convert CSV to JSON",
+      "project_description": "Convert CSV to JSON",
+      "description_is_title_only": true,
+      "client_feedback": "Thanks again Ekky!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2025-01-24",
+      "end_date": "2025-02-25",
+      "contract_days": 32,
+      "project_link": "https://www.upwork.com/jobs/~1882751016750498267"
+    },
+    {
+      "case_id": "contract:~1770626775285985280",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1770626775285985280"
+      },
+      "project_title": "Scrape images from website",
+      "project_description": "Scrape images from website",
+      "description_is_title_only": true,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 20.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2024-03-21",
+      "end_date": "2024-11-01",
+      "contract_days": 225,
+      "project_link": "https://www.upwork.com/jobs/~1770626775285985280"
+    },
+    {
+      "case_id": "contract:~1758484988138057728",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1758484988138057728"
+      },
+      "project_title": "Create a Python script to convert CSVs into JSON",
+      "project_description": "Create a Python script to convert CSVs into JSON",
+      "description_is_title_only": true,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 15.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2024-02-17",
+      "end_date": "2024-11-01",
+      "contract_days": 258,
+      "project_link": "https://www.upwork.com/jobs/~1758484988138057728"
+    },
+    {
+      "case_id": "contract:~021671349901847953408",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021671349901847953408"
+      },
+      "project_title": "Django/Python/HTML/Javascript debugging and modifications.",
+      "project_description": "Able to understand and communicate effectively and quickly in English. I will complete the work on my computer and need someone who will be on a continual screenshare with me to help me edit and modify code. \n\nUser will need to modify code using VScode LiveShare extension as well. Short 10 min interview required to determine eligibility. \n\nContract will be for a single day, anywhere from 4-8 hours. The backend is in Python with Django and the frontend is essentially just HTML/JavaScript. Must be skilled in both.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 181.33,
+      "total_hours": 11.33,
+      "effective_hourly_usd": 16.0,
+      "start_date": "2023-06-21",
+      "end_date": "2024-10-30",
+      "contract_days": 497,
+      "project_link": "https://www.upwork.com/jobs/~021671349901847953408"
+    },
+    {
+      "case_id": "contract:~021319657987490131968",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021319657987490131968"
+      },
+      "project_title": "Patent Illustrator for Drawings",
+      "project_description": "In need of help in preparing 2D patent drawings. These may be based on hand sketches, photographs or 3D models. Often it is simply cleaning up ore modifying existing drawings. Fast turnaround appreciated.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 2396.0,
+      "total_hours": 199.67,
+      "effective_hourly_usd": 12.0,
+      "start_date": "2020-10-23",
+      "end_date": "2024-10-30",
+      "contract_days": 1468,
+      "project_link": "https://www.upwork.com/jobs/~021319657987490131968"
+    },
+    {
+      "case_id": "contract:~021795468424731467776",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021795468424731467776"
+      },
+      "project_title": "Python Developer for AI project",
+      "project_description": "Project Overview:\nDevelopment of an AI-based language learning application API in Python. The front end application will be developed using Flutter by another developer, and you will build the API. It's currently in Fast API and will involve integration with the OpenAI API.\n\nTechnical Skills:\n\n1. Python Fast API and OpenAI API Integration: Experience in building and deploying Python-based APIs, specifically with integration of the OpenAI API. The candidate should demonstrate a clear understanding of how to leverage this API effectively for the project's needs.\n\n2. Backend and Database Management: We are currently using Supabase. Ability to set up, manage, and maintain databases and backend applications. While specific database technology experience is not mandated, the candidate should have a strong understanding of backend architectures.\n\n3. CI/CD Pipeline Management: Experience in setting up and maintaining Continuous Integration and Continuous Deployment (CI/CD) pipelines to ensure efficient and reliable code deployment.\n\n4. High-Performance Optimization: Skill in optimizing applications for high performance, ensuring scalability and responsiveness, particularly in the context of a language learning application.\n\nCultural Skills:\n\n1. Rapid Execution: Ability to work quickly and efficiently, delivering high-quality work within tight timeframes.\n\n2. Autonomy and Ambiguity Management: Capacity to operate independently, especially under ambiguous instructions, and to progress without getting blocked.\n\nAdditional Requirements:\n\n1. Project Management Tools: Familiarity with GitHub for version control and Linear for project tracking.\n\n2. Language Proficiency: A good command of written and spoken English is necessary for effective communication.\n\nEmployment Terms:\n\nType of Employment: Part-time, transitioning to full-time contingent upon meeting milestones.\nCompensation: Seeking highly skilled individuals; compensation will be competitive and commensurate with experience and skill level.\nWork Hours and Location: No strict location requirements, but a minimum 3-hour overlap with the Central American timezone is mandatory for collaboration purposes.\n\nApplication Process:\n\nInterested candidates should submit a portfolio showcasing previous projects (especially any related to AI or language learning, if applicable).",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 4.2,
+      "project_reward_usd": 272.0,
+      "total_hours": 14.33,
+      "effective_hourly_usd": 18.98,
+      "start_date": "2024-06-03",
+      "end_date": "2024-06-07",
+      "contract_days": 4,
+      "project_link": "https://www.upwork.com/jobs/~021795468424731467776"
+    },
+    {
+      "case_id": "contract:~021733739070820220928",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021733739070820220928"
+      },
+      "project_title": "Modify JSON output",
+      "project_description": "I'm looking for someone to help me manipulate some JSON data into the format I need it. It's coming from a CSV, but I need to add some depth.\n\nSee the attachment for an example of the data I have and how I need it to look.\n\nThere are about 1300 rows in the CSV. I can provide that as JSON.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 35.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2024-01-07",
+      "end_date": "2024-02-16",
+      "contract_days": 40,
+      "project_link": "https://www.upwork.com/jobs/~021733739070820220928"
+    },
+    {
+      "case_id": "contract:~1748708022254698496",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1748708022254698496"
+      },
+      "project_title": "Scrape Website Data",
+      "project_description": "Scrape Website Data",
+      "description_is_title_only": true,
+      "client_feedback": "I couldn't recommend Ekky more. He produces great work, with great communication and very open to making changes and improvements based on feedback. I've worked with him on many jobs and he's the one that I will keep going back to every time.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 20.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2024-01-20",
+      "end_date": "2024-02-16",
+      "contract_days": 27,
+      "project_link": "https://www.upwork.com/jobs/~1748708022254698496"
+    },
+    {
+      "case_id": "contract:~1692775563131699200",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1692775563131699200"
+      },
+      "project_title": "Data Scraping Developer (Python)",
+      "project_description": "Role Overview:\nWe are seeking a skilled Data Scraping Developer with expertise in Python to join our team asap. The ideal candidate will be responsible for developing and maintaining automated data extraction tools that can retrieve text from various URLs. This role requires a deep understanding of web scraping techniques, data extraction, and web technologies.\n\nKey Responsibilities:\n\nWeb Scraping Development: Design, develop, and maintain Python scripts to scrape data from various websites and web applications.\n\nData Extraction: Extract relevant text and data points from web pages, ensuring accuracy and completeness.\n\nAutomation: Implement automation tools and frameworks to aid in the data extraction process.\n\nData Storage: Store extracted data in structured formats such as CSV, JSON, or databases for further analysis.\n\nQuality Assurance: Ensure the accuracy and reliability of scraped data by implementing rigorous testing and validation procedures.\n\nPerformance Optimization: Enhance the speed and efficiency of scraping tools and handle potential issues like CAPTCHAs, IP bans, and rate limits.\n\nCollaboration: Work closely with data analysts, data scientists, and other stakeholders to understand their data needs and provide solutions.\n\nDocumentation: Create comprehensive documentation for all developed scripts and tools, ensuring ease of use and maintenance for other team members.\n\nRequired Skills & Qualifications:\n\nStrong proficiency in Python and web scraping libraries such as Beautiful Soup, Scrapy, and Selenium.\n\nFamiliarity with web technologies like HTML, CSS, and JavaScript.\n\nExperience with database systems (SQL or NoSQL) and data storage solutions.\n\nKnowledge of web scraping best practices, including handling dynamic content, AJAX requests, and multi-stage scraping.\n\nStrong problem-solving skills and the ability to handle complex scraping challenges.\n\nExcellent communication skills, both written and verbal.\n\nPreferred Qualifications:\n\nExperience with cloud platforms like AWS, Google Cloud, or Azure.\n\nFamiliarity with data processing tools and frameworks like Pandas or Dask.\n\nKnowledge of data visualization tools and techniques.",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky was very helpful in building the data scraper we needed to build.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 480.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2023-09-10",
+      "end_date": "2023-11-10",
+      "contract_days": 61,
+      "project_link": "https://www.upwork.com/jobs/~1692775563131699200"
+    },
+    {
+      "case_id": "contract:~1717901101979353088",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1717901101979353088"
+      },
+      "project_title": "Code modification for old data scraping script",
+      "project_description": "Code modification for old data scraping script",
+      "description_is_title_only": true,
+      "client_feedback": "Thank you very much, Ekky! As awlays, amazing work! The task was not easy and there were many difficulties in the process. Ekky was very persistent and managed to solve it without giving up. I recommend him! Hope I can have a change to work with him again soon !",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2023-10-27",
+      "end_date": "2023-11-10",
+      "contract_days": 14,
+      "project_link": "https://www.upwork.com/jobs/~1717901101979353088"
+    },
+    {
+      "case_id": "contract:~021715000491862351872",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021715000491862351872"
+      },
+      "project_title": "Web scraper",
+      "project_description": "I have a very simple scraping job. I would do it myself but I'm in back to back meetings the next two days and I need this turned around quickly. Hiring preference will be given to anyone that can return the scraped data to me the fastest.\n\nI need someone to scrape the U.S. News and World Report Best Global Universities list and provide it to me in Excel format. \n\nFor this I need the following data points for each of the 2,165 universities in the list:\n- University name\n- Location\n- Ranking Number\n- Global Score\n\nHere's the link to the page you'll be scraping: \nhttps://www.usnews.com/education/best-global-universities/rankings\n\nHere's a brief (less than 2 minute) video showing you what I want:\nhttps://somup.com/c06qIkBmF5 \n\nTo prove that you've read this full job description, what is the answer to the question I ask at the end of the above video? Please post that in your application/cover letter for this project.\n\nThank you!",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky was very fast and his results were perfect. It was an easy scraping project, but he still turned it around in less than an hour when I was expecting within 24 hours. Seriously happy with the results and how he went above and beyond with his quick delivery.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2023-10-19",
+      "end_date": "2023-10-19",
+      "contract_days": 0,
+      "project_link": "https://www.upwork.com/jobs/~021715000491862351872"
+    },
+    {
+      "case_id": "contract:~021703225910045999104",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021703225910045999104"
+      },
+      "project_title": "Web Scrape Set up",
+      "project_description": "I'm looking for someone that is able to set up a project in parsehub or a similar program to extract information from a government website. The system (parsehub or similar) needs to be able to be activated by api. We will be making calls to the api from a database where the data will be stored. For this project I just need help with the parsehub project set up so that it gathers the information correctly when called by the api. Three sample links are included below along with the data that needs to be collected for each type of link:\n\nCompany Page: \nSample URL: (link removed)\nMust be able to extract: \n- DBAs - must extract name and dates for each DBA\n- Branches - must extract address (including city/state/zip) and Branch/Division Manager if applicable.\n- Comments - must extract each row as it's own item\n- Disciplinary or Formal Action Documents: - must extract each pdf link as a url.\n\nBroker Page\nSample URL: (link removed)\nMust be able to extract: \n- Former Broker Associate for - must extract license ID, Name, Date Range\n- Comment - \n- Disciplinary or Formal Action Documents: - must extract each pdf link as a url.\n- DBAs - must extract name and dates for each DBA\n- Branches - must extract address (including city/state/zip) and Branch/Division Manager if applicable.\n\nSalesperson Page: \nSample URL: (link removed)\n- Former Responsible Broker - must extract license ID, Name, Date Range\n- Comment - \n- Disciplinary or Formal Action Documents: - must extract each pdf link as a url.\n\nI believe the best solution will be three separate Parsehub Projects. 1) Company Pages .2) Broker Pages and 3) Salesperson pages as each of the three page types are structured slightly differently. However I don't have a lot of experience with scraping tools so if you have a different suggested tool or method to extract from these specific types of links feel free to suggest an alternative. pricing is a consideration as the program may need to scrape approximately 500,000 pages each month....it doesn't need to be fast but it may need to make that many calls each month.",
+      "description_is_title_only": false,
+      "client_feedback": "I was very pleased with Ekky's work.  He was fast and took time to explain patiently when I had questions about the solution he built for my situation.  We had two zoom calls that were very helpful in addition to the work completed.  And on top of that he was quick to explore other aspects of our project beyond what I had originally asked for and ended up helping give a finished product substantially more thorough than I was planning on originally.  I'm already thinking about the next project he can help me with!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 210.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2023-09-17",
+      "end_date": "2023-09-28",
+      "contract_days": 11,
+      "project_link": "https://www.upwork.com/jobs/~021703225910045999104"
+    },
+    {
+      "case_id": "contract:~021705014554060713984",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021705014554060713984"
+      },
+      "project_title": "Debug and run my Python scraper",
+      "project_description": "Looking for someone to debug and run my Python scraper, the output of the successfully run project would be the output CSV file.\n\nPotential for assistance in getting the next ongoing daily scraper running as well and future work for the right person.",
+      "description_is_title_only": false,
+      "client_feedback": "Nice working with Ekky",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 56.67,
+      "total_hours": 2.83,
+      "effective_hourly_usd": 20.02,
+      "start_date": "2023-09-22",
+      "end_date": "2023-09-23",
+      "contract_days": 1,
+      "project_link": "https://www.upwork.com/jobs/~021705014554060713984"
+    },
+    {
+      "case_id": "contract:~021682247938669481984",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021682247938669481984"
+      },
+      "project_title": "Web Scraping and Database Building",
+      "project_description": "I am looking for a freelancer who has experience in web scraping to help me build a database using data from various real estate websites. The freelancer will be responsible for writing scripts or using existing scraping tools to extract the required data and organize it into a structured database. The database should be easily accessible, and I would like to be able to refresh the database myself in the future. Relevant skills include:\n\n- Web scraping\n- Data extraction\n- Scripting\n- Database management\n- Data organization and structuring\n\nThe size of the project is small and can be completed within 1 month. If it goes well, we will likely return to the freelancer for updates to the database and new functionality in the future.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 295.0,
+      "total_hours": 10.0,
+      "effective_hourly_usd": 29.5,
+      "start_date": "2023-07-26",
+      "end_date": "2023-07-29",
+      "contract_days": 3,
+      "project_link": "https://www.upwork.com/jobs/~021682247938669481984"
+    },
+    {
+      "case_id": "contract:~1679133444356399104",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1679133444356399104"
+      },
+      "project_title": "Web Scrape For Classifieds",
+      "project_description": "Web Scrape For Classifieds",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 300.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2023-07-12",
+      "end_date": "2023-07-25",
+      "contract_days": 13,
+      "project_link": "https://www.upwork.com/jobs/~1679133444356399104"
+    },
+    {
+      "case_id": "contract:~021636269043287023616",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021636269043287023616"
+      },
+      "project_title": "Bug fixing a django project",
+      "project_description": "I have a django project which needs to be debugged. Tasks such as send a job, check status of a running job, show status of running functions and terminate the running jobs needs to he added or debugged.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 624.0,
+      "total_hours": 34.67,
+      "effective_hourly_usd": 18.0,
+      "start_date": "2023-03-26",
+      "end_date": "2023-07-11",
+      "contract_days": 107,
+      "project_link": "https://www.upwork.com/jobs/~021636269043287023616"
+    },
+    {
+      "case_id": "contract:~1519609662649561088",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1519609662649561088"
+      },
+      "project_title": "Extract data from website (European Patent Office)",
+      "project_description": "Extract data from website (European Patent Office)",
+      "description_is_title_only": true,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 940.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-04-28",
+      "end_date": "2023-05-02",
+      "contract_days": 369,
+      "project_link": "https://www.upwork.com/jobs/~1519609662649561088"
+    },
+    {
+      "case_id": "contract:~021609108360511471616",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021609108360511471616"
+      },
+      "project_title": "Django developer needed for creating a web interface for an existing Python application.",
+      "project_description": "I have programmed a trading algorithm in Python. The program is functioing just fine without a web interface. It reads in a user-defined settings file in json format. The settings file is the part which needs to be created by the user via a web-interface and stored in user's folder on the web. Once the json file is created the program can be initiated.\n\nI would like to have a user-friendly interface in Django for the different parts of the settings.",
+      "description_is_title_only": false,
+      "client_feedback": "Job well done.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 2457.0,
+      "total_hours": 136.5,
+      "effective_hourly_usd": 18.0,
+      "start_date": "2023-01-01",
+      "end_date": "2023-03-19",
+      "contract_days": 77,
+      "project_link": "https://www.upwork.com/jobs/~021609108360511471616"
+    },
+    {
+      "case_id": "contract:~021599783422187589632",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021599783422187589632"
+      },
+      "project_title": "Web build application",
+      "project_description": "I’m a full stack student still learning & would love to get help on my project",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 562.45,
+      "total_hours": 39.67,
+      "effective_hourly_usd": 14.18,
+      "start_date": "2022-12-06",
+      "end_date": "2023-03-16",
+      "contract_days": 100,
+      "project_link": "https://www.upwork.com/jobs/~021599783422187589632"
+    },
+    {
+      "case_id": "contract:~021596594857453551616",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021596594857453551616"
+      },
+      "project_title": "Need help with creating a database and finishing a full stack web app",
+      "project_description": "I need a functioning database and 2 user functions on a website, code started need help implementing things.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 175.67,
+      "total_hours": 10.33,
+      "effective_hourly_usd": 17.01,
+      "start_date": "2022-11-27",
+      "end_date": "2023-03-16",
+      "contract_days": 109,
+      "project_link": "https://www.upwork.com/jobs/~021596594857453551616"
+    },
+    {
+      "case_id": "contract:~021591204635058786304",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021591204635058786304"
+      },
+      "project_title": "Data Parsing downloaded HTML in Juypter using python and pandas",
+      "project_description": "I have a web scraping project I have started and now I am stuck . I have all my html downloaded but I do not know how to parse the html to grab the information I want from the html. \n\nI want the data extracted and AVG then put into a table that I can use to add new data AVG as more games are played",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 28.33,
+      "total_hours": 1.67,
+      "effective_hourly_usd": 16.96,
+      "start_date": "2022-11-12",
+      "end_date": "2023-03-16",
+      "contract_days": 124,
+      "project_link": "https://www.upwork.com/jobs/~021591204635058786304"
+    },
+    {
+      "case_id": "contract:~1437561319208955904",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1437561319208955904"
+      },
+      "project_title": "Experienced Developer to code our NFT layers",
+      "project_description": "We are currently working on an NFT project, and we need an expert to code our NFT layers. In the file we shared you'll find an NFT image with different layers and traits. What we want is for you to code color layers to match similar traits, arrange and export them accordingly. The video attached explains what we need you to do. If you feel you can do this job, we'll send you the file to edit on, and also further instructions to go with it.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 250.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-09-21",
+      "end_date": "2023-03-16",
+      "contract_days": 541,
+      "project_link": "https://www.upwork.com/jobs/~1437561319208955904"
+    },
+    {
+      "case_id": "contract:~021431947224136499200",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021431947224136499200"
+      },
+      "project_title": "Simple data scraping python script",
+      "project_description": "Hi everyone\nI have a small project that requires a script. \nIt will scrape the required data from website, discord and twitter. \nI have prepared a video to describe what needs to be captured but your script doesnt need to follow the order i did it. \nAs long as the output file in CSV has the results I am looking for.\n\nVideo here: https://drive.google.com/file/d/1xmxsVLVKsF_cwGfTZcAoM0ogQsVjsjSH/view?usp=sharing\n\nwhen applying for this job, please include the keyword \"EASY TO DO\"\n\nThanks\npeter",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 180.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-08-29",
+      "end_date": "2023-03-16",
+      "contract_days": 564,
+      "project_link": "https://www.upwork.com/jobs/~021431947224136499200"
+    },
+    {
+      "case_id": "contract:~021527768073779482624",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021527768073779482624"
+      },
+      "project_title": "Simple emulation of a data analysis website",
+      "project_description": "This assignment is a data analysis website. You are required to analyse the given data in folder data/source_course_files. This project is based on Python Flask Framework and you need to complete the files inside the controller folder named course_controller.py, index_controller.py, instructor_controller.py and user_controller.py, model folder named course.py, user.py, user_admin.py, user_instructor.py and user_student.py and several html pages (views) in the templates folder called 00login.html, 00register.html, 10student_list.html and 11student_info.html.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-06-04",
+      "end_date": "2023-03-16",
+      "contract_days": 285,
+      "project_link": "https://www.upwork.com/jobs/~021527768073779482624"
+    },
+    {
+      "case_id": "contract:~021582946457919512576",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021582946457919512576"
+      },
+      "project_title": "Scraper Updates",
+      "project_description": "I have two scrapers that need some maintenance. I'm running into a few issues with data extraction that I'd like to get working again.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 150.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-10-27",
+      "end_date": "2023-03-16",
+      "contract_days": 140,
+      "project_link": "https://www.upwork.com/jobs/~021582946457919512576"
+    },
+    {
+      "case_id": "contract:~021614904023457017856",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021614904023457017856"
+      },
+      "project_title": "Scrape European football team logos",
+      "project_description": "I'm looking for someone to scrape the web (Wikipedia, team websites, Football Manager database etc) to get all major Europen football team logos. Specifically:\n\n- England: Premier League and the divisions below\n- Spain: all divisions\n- Italy: all divisions\n- Germany: all divisions\n- Netherlands: all divisions\n- Russia major clubs\n\nI would like them in either png or svg format - ideally they're going to be the same width and height, and then categorised into a folder that the team name starts with.\n\nFor example, Juventus would be 'images/j/juventus.svg'\n\nThere are many Football Manager logo packs out there, but the logos are all in the team ID number. Any easy way might be to cross-reference the Football Manager team IDs with the file, and rename from there. I'm open to any way to do it, as long as the output is as above.\n\nThanks!",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 50.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2023-01-16",
+      "end_date": "2023-03-16",
+      "contract_days": 59,
+      "project_link": "https://www.upwork.com/jobs/~021614904023457017856"
+    },
+    {
+      "case_id": "contract:~021593845174045585408",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021593845174045585408"
+      },
+      "project_title": "Convert CSV to JSON with nested arrays",
+      "project_description": "I have a CSV of players and values and need to convert them into a specific JSON format for importing into a CMS.\n\nThe job is probably best explained by looking at the two files. I've attached an example of how the CSV will be formatted, and how the JSON needs to look after taking in that data.\n\nThis will be more than a one-time thing I need to run, so I need it in a way that I can convert in the future.\n\nBonus points (and money!) if you can help me scrap websites to get this data into a CSV (or straight to JSON) in the first place.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-11-19",
+      "end_date": "2023-03-16",
+      "contract_days": 117,
+      "project_link": "https://www.upwork.com/jobs/~021593845174045585408"
+    },
+    {
+      "case_id": "contract:~021548589325893308416",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021548589325893308416"
+      },
+      "project_title": "Python Script for transferring values between two Excel workbooks",
+      "project_description": "We would like to automate a manual process of copying multiple values from multiple source excel files into an existing Excel template. Values from the source files will be placed into specific cells in the existing output spreadsheet. This means you will need to use an excel library that permits placing of values into an existing, formatted, excel template.\n\nContract to begin immediately.\n\nLook forward to receiving responses.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-09-13",
+      "end_date": "2023-03-16",
+      "contract_days": 184,
+      "project_link": "https://www.upwork.com/jobs/~021548589325893308416"
+    },
+    {
+      "case_id": "contract:~021543707824761270272",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021543707824761270272"
+      },
+      "project_title": "Scraper for a website",
+      "project_description": "The task is to start at this website: https://web.archive.org/web/20170707222916/http://www.alexa.com/topsites/category/\n\nClick through on each of the categories, and further categories will be displayed. As you proceed down the categories, just save every page along the way (In the link, description, and category format). And then keep going into every subcategory and save those, and then keep going into each sub-category like that. When it says \"The Wayback Machine has not archived that URL\" you stop. There will be some duplicates in the urls when stored this way, but that is ok. I will clean up the csv and pick out the classification I need from it later on. \n\nIn the above example, you will first save all the links in the page https://web.archive.org/web/20141113155420/http://www.alexa.com/topsites/category/Top/Recreation/Living_History/By_Historical_Region/North_America, under the classification Recreation | Living History | By Historical Region. Then proceed into each of the sub-categories. As you notice all of them except one will return \"The Wayback Machine has not archived that URL\". So ignore all except that one which is \"United States\". Go to that page and store all the links there under the category \"Recreation | Living History | By Historical Region | North America | United States\" and then proceed into each of the subcategories in that page. Etc etc.\n\nAnd then you make a csv file with the link, description, classification.\n\nLike this..\n\nlink, description, classification\nTexrenfest.com, \"Texas Renaissance Festival runs October and November at Plantersville, Texas\", Recreation/Living_History/By_Historical_Region\nRennfest.com, \"A recreation of a 16th century English village named Revel Grove in Crownsville. Employment, craft and vendor applications, photographs, entertainment descriptions, and directions\",Recreation/Living_History/By_Historical_Region\nPlimoth.org,\"Provides information about Plimoth Plantation, the living history museum of the seventeenth century. Moretury in Plymouth, Massachusetts. Also serves as a resource by which visitors may learn more about the Pilgrim Story, the history of Plymouth Colony (1620-1692), the Wampanoag Indians, Thanksgiving, and find links to related sites on the Web\",Recreation/Living_History/By_Historical_Region\nRoyalfaires.com, \"Annual event in Charlotte, North Carolina. Includes events schedule, ticket information, map\", Recreation/Living_History/By_Historical_Region\n\nDeliver both the script and the crawled csv file like above.\n\nNote: \n\n1. \n\nThere might be more than one format of html when you do down the classification, I am aware of atleast 2 types. So you will need to have a try/except or a case statement to deal with these types of htmls. \n\nExample of 2 types of html. \n\nhttps://web.archive.org/web/20170722142857/http://www.alexa.com/topsites/category/Top/Recreation/Locks\nhttps://web.archive.org/web/20141113102458/http://www.alexa.com/topsites/category/Top/Recreation/Living_History/By_Historical_Region/North_America/United_States\n\n2. \n\nPage not available is also shown in a few different ways. First if you click the pagination only the first or the first 2 will have date. The rest might have a notice saying the page was not crawled or it has reached \"End of Service Notice\" etc. You just ignore those pages and go about saving other pages.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 50.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-07-04",
+      "end_date": "2023-03-16",
+      "contract_days": 255,
+      "project_link": "https://www.upwork.com/jobs/~021543707824761270272"
+    },
+    {
+      "case_id": "contract:~1529761798672027648",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1529761798672027648"
+      },
+      "project_title": "Scrape list of websites to determine language of website",
+      "project_description": "We have a list of around 100.000 websites in Excel and we need someone to make a scraper to determine the language of these individual websites. \n\nThis language name (like English, German or Dutch) then needs to be inserted in the row next to the name of the website.\n\nSo a similar request as is listed here:\n\nhttps://www.quora.com/Is-there-a-scraping-tool-to-detect-the-language-from-a-list-of-websites\n\nRequirement is that it's done thoroughly and fast.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 70.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-05-27",
+      "end_date": "2023-03-16",
+      "contract_days": 293,
+      "project_link": "https://www.upwork.com/jobs/~1529761798672027648"
+    },
+    {
+      "case_id": "contract:~021527166097222615040",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021527166097222615040"
+      },
+      "project_title": "Scraper for websites",
+      "project_description": "When given a website, I want the scraper to get all the visible texts on the landing page, then I want the crawler to sample N number of random links from the landing page, and for each page sample the visible texts in that page and keep a counter of the number of words collected so far. Once the number of words reaches 10,000 the scraper will stop and save the text to \"website.com.txt\" file where the \"website.com\" is the name of the given input url. Please note that the website URL will be input at run time (website.com is only an example) Also we are not looking for all the visible texts exactly, only a good enough large sample (approximately)",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 240.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-05-22",
+      "end_date": "2023-03-16",
+      "contract_days": 298,
+      "project_link": "https://www.upwork.com/jobs/~021527166097222615040"
+    },
+    {
+      "case_id": "contract:~021527151005297766400",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021527151005297766400"
+      },
+      "project_title": "Fix Pagination on Selenium",
+      "project_description": "We're scraping a page on Tik Tok and are running into an issue where we cannot scrape content that hasn't loaded yet. \n\nWe need help fixing this, where the script gives additional content time to paginate and then be scraped.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 40.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-05-20",
+      "end_date": "2023-03-16",
+      "contract_days": 300,
+      "project_link": "https://www.upwork.com/jobs/~021527151005297766400"
+    },
+    {
+      "case_id": "contract:~021459803680447623168",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021459803680447623168"
+      },
+      "project_title": "Python with Excel specialist needed for a small task",
+      "project_description": "i will attach more details\nif you have good writing skills , it will be an added advantage\nthe following file will be needed\n\n1. Windows Batch File (.bat)\n2. Python Script File (.py",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 20.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-11-23",
+      "end_date": "2023-03-16",
+      "contract_days": 478,
+      "project_link": "https://www.upwork.com/jobs/~021459803680447623168"
+    },
+    {
+      "case_id": "contract:~021475094006021251072",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021475094006021251072"
+      },
+      "project_title": "Scrap websites to build a database",
+      "project_description": "Hi, I need to scrape a few supermarket websites to have their products in my db. \n\nYou will need to create the db too.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 680.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-12-28",
+      "end_date": "2023-03-16",
+      "contract_days": 443,
+      "project_link": "https://www.upwork.com/jobs/~021475094006021251072"
+    },
+    {
+      "case_id": "contract:~021483221285870149632",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021483221285870149632"
+      },
+      "project_title": "Python coding",
+      "project_description": "I have developed Python Code in 2.7.13 version. The code is currently nor working anymore. I want to transfer it to latest version of Python (3.7) and make it functional. The code was developed to extract data from SEC Edgar files (http://www.sec.gov).",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-01-18",
+      "end_date": "2023-03-16",
+      "contract_days": 422,
+      "project_link": "https://www.upwork.com/jobs/~021483221285870149632"
+    },
+    {
+      "case_id": "contract:~021486971204086988800",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021486971204086988800"
+      },
+      "project_title": "Webscrapper",
+      "project_description": "Please use the updated 'Explorer V3' for the source\n\nA bunch of tokens has benn removed, a few have been added.\nI will send a screenshot for Luna. \nThe rest should be quite straightforward",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-01-28",
+      "end_date": "2023-03-16",
+      "contract_days": 412,
+      "project_link": "https://www.upwork.com/jobs/~021486971204086988800"
+    },
+    {
+      "case_id": "contract:~021517703776257003520",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021517703776257003520"
+      },
+      "project_title": "Python project -Restructure program into manageable units of modules and classes",
+      "project_description": "python where you will write a Python code for simple emulation of data processing. Your application should be able to ask the user to input a username, password to login into your system. The system should be able to identify the role of this user and allow corresponding operations.\n\nPLEASE PROJECT DOCUMENT AND PYTHON TEMPLATES",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 55.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-04-23",
+      "end_date": "2023-03-16",
+      "contract_days": 327,
+      "project_link": "https://www.upwork.com/jobs/~021517703776257003520"
+    },
+    {
+      "case_id": "contract:~021455707265901768704",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021455707265901768704"
+      },
+      "project_title": "Need Assets Combine to Generate 10,000 Editions of the NFTs.",
+      "project_description": "Have rarities, layers, everything else I need, just having some lag with certain characteristics not going with other ones and having exclusions made. Say for instance, this type of bear can wear this hat - but this rarer bear can't be combined with it or it looks weird, so that specific bear would have certain assets excluded from generating with it in the process to making the 10,000.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 300.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-11-04",
+      "end_date": "2023-03-16",
+      "contract_days": 497,
+      "project_link": "https://www.upwork.com/jobs/~021455707265901768704"
+    },
+    {
+      "case_id": "contract:~021436239216685789184",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021436239216685789184"
+      },
+      "project_title": "generate 10,000 NFTs programmatically",
+      "project_description": "Use program to generate 10,000 different pictures from an image I provide with 10 different layers\n\nI will provide you the base images for you to run through a program that will generate 10,000 unique images\n\nsimilar project: CryptoPunks nfts",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 400.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-09-14",
+      "end_date": "2023-03-16",
+      "contract_days": 548,
+      "project_link": "https://www.upwork.com/jobs/~021436239216685789184"
+    },
+    {
+      "case_id": "contract:~1391119596692713472",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1391119596692713472"
+      },
+      "project_title": "Python script",
+      "project_description": "Python script",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 99.98,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-05-08",
+      "end_date": "2023-03-16",
+      "contract_days": 677,
+      "project_link": "https://www.upwork.com/jobs/~1391119596692713472"
+    },
+    {
+      "case_id": "contract:~021363487120881377280",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021363487120881377280"
+      },
+      "project_title": "Help with Python monthly sales code",
+      "project_description": "Need help with creating a code for a monthly sales. Please review attached document to see the project.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 104.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-02-22",
+      "end_date": "2023-03-16",
+      "contract_days": 752,
+      "project_link": "https://www.upwork.com/jobs/~021363487120881377280"
+    },
+    {
+      "case_id": "contract:~021304336774493679616",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021304336774493679616"
+      },
+      "project_title": "Ecommerce Product 3D Modelling",
+      "project_description": "Looking for someone to assist with 3d product modeling for our manufacturing website. I have attached an example of what most end products will look like.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 1207.5,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-09-14",
+      "end_date": "2023-03-16",
+      "contract_days": 913,
+      "project_link": "https://www.upwork.com/jobs/~021304336774493679616"
+    },
+    {
+      "case_id": "contract:~1301078855831478272",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1301078855831478272"
+      },
+      "project_title": "Spiral Staircase mockup - \t3558 Twin Waters",
+      "project_description": "Mock up a building based on a floor plan\nInsert a spiral staircase\nRender\n\nModel to be in SW2020\n\nSupplied: A hand sketch of a floorplan \nBasic spiral staircase model\n\nThe stair & model does not have to be parametric, but does need to follow good design practices. \n We will probably need to revise this in the future as the Client refines their concept.\n\nStair dimensions\n3350mm high (floor to floor)\n2000mm dia\n18 risers / 17 treads\nWooden treads (overlay on steel treads)\n\nRound Stainless railings 1200mm high (from the nose of the tread)\n20mm Steel baulsters every third step \nGlass infill panels\n\nIt will go where the standard staircase is drawn in the Gym area, centre it on the wall between the mens and ladies change rooms.\n\nThe Client's site is at the corner of Queen and Mill Point Road, South Perth. The Maps view shows where the extension is going in. I'm not sure if it's relevant but it may give some context.\n\nI don't have much detail on the inside of the building. Feel free to use artistic licence & estimate anything that is not defined.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-09-02",
+      "end_date": "2023-03-16",
+      "contract_days": 925,
+      "project_link": "https://www.upwork.com/jobs/~1301078855831478272"
+    },
+    {
+      "case_id": "contract:~1373983903829045248",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1373983903829045248"
+      },
+      "project_title": "python",
+      "project_description": "python",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 18.0,
+      "total_hours": 2.0,
+      "effective_hourly_usd": 9.0,
+      "start_date": "2021-03-22",
+      "end_date": "2023-03-13",
+      "contract_days": 721,
+      "project_link": "https://www.upwork.com/jobs/~1373983903829045248"
+    },
+    {
+      "case_id": "contract:~021375919047848689664",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021375919047848689664"
+      },
+      "project_title": "Matlab and data scientist instructor",
+      "project_description": "Matlab instructor is needed to help me to understand some problems and try to solve them. my skills are basic and I need continued virtual support",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 40.5,
+      "total_hours": 4.5,
+      "effective_hourly_usd": 9.0,
+      "start_date": "2021-03-31",
+      "end_date": "2023-03-13",
+      "contract_days": 712,
+      "project_link": "https://www.upwork.com/jobs/~021375919047848689664"
+    },
+    {
+      "case_id": "contract:~021515638959963168768",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021515638959963168768"
+      },
+      "project_title": "Scrape website for data (182 rows)",
+      "project_description": "Hello,\n\nI need data to be scraped using the last name and first name.\n\nThe URL is here:\nAdvanced Search: https://doctors.cpso.on.ca/?search=general\nInput variables: Last name; First Name\n\nOutput: see attached sample.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 75.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-04-18",
+      "end_date": "2023-02-19",
+      "contract_days": 307,
+      "project_link": "https://www.upwork.com/jobs/~021515638959963168768"
+    },
+    {
+      "case_id": "contract:~1377796691091312640",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1377796691091312640"
+      },
+      "project_title": "Matlab help needed for a project",
+      "project_description": "I have a project to do and i need help with matlab",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 45.0,
+      "total_hours": 5.0,
+      "effective_hourly_usd": 9.0,
+      "start_date": "2021-04-02",
+      "end_date": "2023-01-17",
+      "contract_days": 655,
+      "project_link": "https://www.upwork.com/jobs/~1377796691091312640"
+    },
+    {
+      "case_id": "contract:~1607090540610289664",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1607090540610289664"
+      },
+      "project_title": "Quick Scraping Job",
+      "project_description": "We need all of the info from each of the issue pages, as found by crawling through the alphabetical directory. Variables may include (and will be blank for some): series title, volume/year, publisher, issue #, cover date, cover price, current value, searched, owned, pages, rating, ISBN/UPC, est. print run, variant of, (then from the Reviews tab) the scores, Contributors, Characters, Collects, Events, History, plus the URL for the issue's page.\n\nExample URL plus access point for the other larger alphabetical browse: https://comicbookrealm.com/series/113/0/marvel-comics-amazing-spider-man-vol-1\n\nLooking for a quick turnaround on this, preferably over the next few hours.",
+      "description_is_title_only": false,
+      "client_feedback": "Outstanding work!! Ekky used advanced Python packages to complete an automation project. I highly recommend him for all Python dev tasks -- great problem solver, skilled communicator. This guy is definitely going far as a freelancer!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 45.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-12-28",
+      "end_date": "2023-01-01",
+      "contract_days": 4,
+      "project_link": "https://www.upwork.com/jobs/~1607090540610289664"
+    },
+    {
+      "case_id": "contract:~1476588057138204672",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1476588057138204672"
+      },
+      "project_title": "Data Mining and lead generation",
+      "project_description": "Immediate need for data mining from a single website.\nWill need an excel report with all details.\nThis will be a fixed-cost project.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 45.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-12-30",
+      "end_date": "2022-12-08",
+      "contract_days": 343,
+      "project_link": "https://www.upwork.com/jobs/~1476588057138204672"
+    },
+    {
+      "case_id": "contract:~021473173616311267328",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021473173616311267328"
+      },
+      "project_title": "Data Mining - Single Platform",
+      "project_description": "Immediate need for data mining from a single website.\nWill need an excel report with all details.\nThis will be a fixed-cost project.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 5.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-12-27",
+      "end_date": "2022-12-08",
+      "contract_days": 346,
+      "project_link": "https://www.upwork.com/jobs/~021473173616311267328"
+    },
+    {
+      "case_id": "contract:~1455594656802746368",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1455594656802746368"
+      },
+      "project_title": "Script writing using Python",
+      "project_description": "Script writing using Python",
+      "description_is_title_only": true,
+      "client_feedback": "Good freelancer.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-11-03",
+      "end_date": "2022-12-08",
+      "contract_days": 400,
+      "project_link": "https://www.upwork.com/jobs/~1455594656802746368"
+    },
+    {
+      "case_id": "contract:~021336799890783252480",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021336799890783252480"
+      },
+      "project_title": "Need to turn png image into 2 editable vectors.",
+      "project_description": "There are 2 objects in a png image i have. I need each object created into an ediable High Quality Vector.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 8.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-12-10",
+      "end_date": "2022-12-08",
+      "contract_days": 728,
+      "project_link": "https://www.upwork.com/jobs/~021336799890783252480"
+    },
+    {
+      "case_id": "contract:~021342641473418153984",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021342641473418153984"
+      },
+      "project_title": "Need a 3D wallpaper and some other 3D object models.",
+      "project_description": "Looking for someone to generate a natural 3D wallpaper/banner for a website. Also looking for someone to create a 3D model for a product bottle and applying some graphics on it.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 70.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-12-26",
+      "end_date": "2022-12-08",
+      "contract_days": 712,
+      "project_link": "https://www.upwork.com/jobs/~021342641473418153984"
+    },
+    {
+      "case_id": "contract:~1343994437245566976",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1343994437245566976"
+      },
+      "project_title": "map graphic",
+      "project_description": "map graphic",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 50.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-12-30",
+      "end_date": "2022-12-08",
+      "contract_days": 708,
+      "project_link": "https://www.upwork.com/jobs/~1343994437245566976"
+    },
+    {
+      "case_id": "contract:~021370709580105138176",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021370709580105138176"
+      },
+      "project_title": "Optimization problem (minimizing costs)",
+      "project_description": "Need help with an optimization problem (minimizing costs) for vaccines distributions centers.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 10.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-03-13",
+      "end_date": "2022-12-08",
+      "contract_days": 635,
+      "project_link": "https://www.upwork.com/jobs/~021370709580105138176"
+    },
+    {
+      "case_id": "contract:~021419296175153446912",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021419296175153446912"
+      },
+      "project_title": "Easy script adding comma after lines and combine to 1 line, quick script to make",
+      "project_description": "need your script to take a notepad file, where i can upload 1 or multiple at a time, i will be uploading keywords line by line\n\nEXAMPLE BELOW OF WHAT I MEAN\n\nlatest smartphone releases 2019\ncoming soon mobile in india\nupcoming smartphones 2019\nall new upcoming smartphone\ntop upcoming mobiles under 15000\nlatest upcoming mobiles 2019\ntop 10 mobile phones coming soon\nphones upcoming 2019\nrecent mobile models\n\n----\n\nso i need the output like this, it will all be on 1 line without space\n\nlatest smartphone releases 2019,coming soon mobile in india,upcoming smartphones 2019,all new upcoming smartphone,top upcoming mobiles under 15000,latest upcoming mobiles 2019, top 10 mobile phones coming soon,\n\n----\n\ni need this TODAY and will pay $10 for this easy script that should take you less 1 hour to make",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 10.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-07-25",
+      "end_date": "2022-12-08",
+      "contract_days": 501,
+      "project_link": "https://www.upwork.com/jobs/~021419296175153446912"
+    },
+    {
+      "case_id": "contract:~021427089072963010560",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021427089072963010560"
+      },
+      "project_title": "Need a script to extract data from a PDF",
+      "project_description": "Our team need to read (by humans) a lot of these PDF files and input it to another software. These files are called \"Brokerage Notes\". It shows client details, stock trades details and the final cost (included taxes).\nAttached files shows a few examples.\n\nThe script needs to be fast and lightweight because we really want to use aws lambda for this.\n\nDeliverables:\nSimple script that I can run by command line (windows or linux) and giving source file path and output file path. Example.:\n python convert-brogerage-note.py \"c:\\source\\001.pdf\" \"c:\\destination\\\"\n\nOutput must be a json structure and should contains (see attached file output-request.pdf for details).\n\nBrasileiro são bem-vindos! S2",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 40.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-08-18",
+      "end_date": "2022-12-08",
+      "contract_days": 477,
+      "project_link": "https://www.upwork.com/jobs/~021427089072963010560"
+    },
+    {
+      "case_id": "contract:~021296255909154549760",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021296255909154549760"
+      },
+      "project_title": "Mechanical design robot specialist",
+      "project_description": "Looking for medium level CAD specialist.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-08-28",
+      "end_date": "2022-12-08",
+      "contract_days": 832,
+      "project_link": "https://www.upwork.com/jobs/~021296255909154549760"
+    },
+    {
+      "case_id": "contract:~021292604205771603968",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021292604205771603968"
+      },
+      "project_title": "Recreate a simple image in Photoshop",
+      "project_description": "I need you to review the images attached to this project, and create an Adobe Photoshop file of the area including the eyes. The image should have a transparent background. The white portion of the circular area should be white. The 2 dots should be included as a separate layer. The edge area around the eyes should appear 3 dimensional, or appear to be curved. The image will be used in digital and printed designs, and will be placed over other images in various colors. \n\nDeliverable:\n - PSD file, with all image layers available. \n - 300 PPI\n\nPlease contact me with additional questions or clarifications.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-08-11",
+      "end_date": "2022-12-08",
+      "contract_days": 849,
+      "project_link": "https://www.upwork.com/jobs/~021292604205771603968"
+    },
+    {
+      "case_id": "contract:~021295491203207917568",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021295491203207917568"
+      },
+      "project_title": "Recreate a simple image in Photoshop",
+      "project_description": "I need you to review the images attached to this project, and create an Adobe Photoshop file of the area including the eyes. The image should have a transparent background. The white portion of the circular area should be white. The 2 dots should be included as a separate layer. The edge area around the eyes should appear 3 dimensional, or appear to be curved. The image will be used in digital and printed designs, and will be placed over other images in various colors. \n\nDeliverable:\n - PSD file, with all image layers available. \n - 300 PPI\n\nPlease contact me with additional questions or clarifications.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-08-18",
+      "end_date": "2022-12-08",
+      "contract_days": 842,
+      "project_link": "https://www.upwork.com/jobs/~021295491203207917568"
+    },
+    {
+      "case_id": "contract:~1583893856139735040",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1583893856139735040"
+      },
+      "project_title": "Script/Jupyter notebook for data visualization",
+      "project_description": "The project requires creating a python script/jupyter notebook to plot and save graphs data and extracted parameters from excel datafiles with the flexibility of plotting different versions.",
+      "description_is_title_only": false,
+      "client_feedback": "\"Luis was responsive, professional, and great to work with! I would definitely choose him again. Thank you!\"",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 20.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-10-23",
+      "end_date": "2022-11-17",
+      "contract_days": 25,
+      "project_link": "https://www.upwork.com/jobs/~1583893856139735040"
+    },
+    {
+      "case_id": "contract:~021526768115041452032",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021526768115041452032"
+      },
+      "project_title": "Need Webscraping algorithm for scraping a security conscious website.",
+      "project_description": "We are looking for a very experienced Webscraping expert - particularly with using Selenium in python.\nThe websites we want to scrape update their html frequently as they actively want to catch web crawlers and ban the associated IP's. Therefore it is A MUST to write GENERIC, ROBUST code for a webscraping STRATEGY that can work across several of these websites with minimal adaption to the code. This is more important than the deliverables.\n\nKnowledge of scraping methods, tools, proxies, etc is required.\n\nSome helper code will/can be provided and more details post application in private once a short NDA is signed.\n\nWe also ant an organized individual who can communicate well in fluent English. This especially the case as we may want to work longer term on such projects.\n\nDeliverables will be the code plus data to be scraped which I will share in next steps.\nNO HARDCODED LINKS OR HTML PATHS can be in the code except the initial website homepage !\n\nPS : please write \"I am a feckin human\" on the top of your application please or it will not be read.\nthanks in advance\nDavid C,\nCEO,\narbBetter.",
+      "description_is_title_only": false,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-07-02",
+      "end_date": "2022-11-16",
+      "contract_days": 137,
+      "project_link": "https://www.upwork.com/jobs/~021526768115041452032"
+    },
+    {
+      "case_id": "contract:~1582324083580395520",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1582324083580395520"
+      },
+      "project_title": "Excel Data Manipulation Script",
+      "project_description": "Skills Required:\n\n- Python.\n- Microsoft Excel.\n\nProject Summary\n\nFor this project, I am looking for a developer to create three inter-related scripts than can be run independently. Script 1 will combine and manipulate data from two .xlsx files:\n\n- Input1.xlsx\n- Input2.xlsx\n\nScript 2 and 3 will then take different sets of input data and append certain aspects to the input1.xlsx file.\n\nDetailed Project Requirements\n\nScript1:\n\nOpen the input1.xlsx file attached to this post. The input1.xlsx file has 21 columns. Column I contains emails.\n\nNow, open the input2.xlsx file attached to this post. This file has 3 columns. Column B contains emails.\n\nFor all emails in input2.xlsx column B, if the email can be found in input1.xlsx Column I, copy the adjacent value from input2.xlsx column C into the adjacent cell in input1.xlsx column N.\n\nIn input1.xlsx, create a new sheet called “DOMAINS&MESSAGES” and copy all values from column E, G and N from the MASTERSHEET tab into columns A, B and C respectively in the DOMAINS&MESSAGES tab, naming the columns “companyName”, “emailDomain” and “bounceMessage” respectively. \n\nIn DOMAINS&MESSAGES, de-duplicate the table rows based on email addresses.\n\nIn DOMAINS&MESSAGES, for all cells in column A, that do not have a value in the adjacent column C cell, populate the adjacent column C cell with the value “delivered”.\nIn DOMAINS&MESSAGES, Create a duplicate of column C and place it to the right in column D, and name it “shortBounceMessage”.\n\nIn DOMAINS&MESSAGES, for all cells in column D, delete all characters after the first “]” value in the cell, to trim all messages in column C down to [Hard], [Internal] or [Soft] without any remaining text. \n\nNow, create a new tab in the file called “SUMMARY”. And create a table that displays data from DOMAINS&MESSAGES in the following columns:\n\nA. Each unique company name.\nB. Each unique domain.\nC. Total number of [Hard] messages.\nD. Total number of [Internal] messages.\nE. Total number of [Soft] messages.\nF. Total number of Delivered values.\nG. Total number of [Hard], [Internal] and [Soft] messages.\nH. Total number of Delivered values, [Hard], [Internal] and [Soft] messages.\nI. Total number of Delivered values divided by the (sum of all Delivered values, [Hard], [Internal] and [Soft] messages).\n\nAnd name the columns as such as seen in the input1.xlsx file:\n\nA. CompanyName\nB. Domain\nC. [Hard]\nD. [Internal]\nE. [Soft]\nF. Total Delivered\nG. Total Bounced\nH. Total Attempted\nI. EmailDeliverySuccess%\n\nFinally, insert a new column to the right of column A, and title this column as “Registrations”, and assign a value of 0 to all cells in the table.\n\nScript 1 is now complete.\n\nScript2:\n\nOpen input3.xlsx, this file contains 3 columns. These columns are titled with a unique name, and each column contains a list of company names.\n\nFor each column in input3.xlsx, append a new column to the right of column I in the input1.xlsx file SUMMARY tab.\n\nFor each column in input3.xlsx, for each company name in the column, if the name is found in column A in the input1.xlsx file SUMMARY tab, place an “x” in the new column that was added respectively for the input3.xlsx column.\n\nIf the company name is not found in column A in the input1.xlsx file SUMMARY tab, append the company name to the bottom of column A in the input1.xlsx file SUMMARY tab.\n\nScript 2 is now complete.\n\nScript3:\n\nOpen input4.xlsx, this file contains a list of company names. For each company name in column A, if the company name is also found in column A in the input1.xlsx file SUMMARY tab, increment the value in the “registrations” column by 1.\n\nIf the company name is not found in column A in the input1.xlsx file SUMMARY tab, append the company name to the bottom of column A in the input1.xlsx file SUMMARY tab. Then, each time the company name appears in input4.xlsx, increment this new appended value.\n\nFor this project, I would like you to develop python scripts to complete this Upwork task. To complete this task, I must be able to run the program on my own desktop.\n\nIf this project is completed to an excellent standard, in good time – you will be offered a place to join my team for repeated work in future.\n\nMany thanks,\nGeorge",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-10-18",
+      "end_date": "2022-10-19",
+      "contract_days": 1,
+      "project_link": "https://www.upwork.com/jobs/~1582324083580395520"
+    },
+    {
+      "case_id": "contract:~021527546847491317760",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021527546847491317760"
+      },
+      "project_title": "Need an IG Scraper which can id details from followers",
+      "project_description": "Hi there, \n\nFor a project, I need a simple tool that allows me to analyze followers of any account. It basically needs to go two layers deep: \n\n1. First, track the followers' list of any public account. \n2. Second, I need to export the following information from these followers into a CSV file: \n- @Handle\n- Number of followers\n- Number of posts\n- Number of likes & comments\n- Last post\n- Either business or personal account\n- Biography\n- Links\n- Category \n\nI'm looking for something super simple (code I can run locally). \n\nThanx, \n\nMitch",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky is great to work with, reliable, and very helpful. He is also very knowledgeable and creative in his approach. Will work with him again in the future.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 70.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-05-24",
+      "end_date": "2022-06-01",
+      "contract_days": 8,
+      "project_link": "https://www.upwork.com/jobs/~021527546847491317760"
+    },
+    {
+      "case_id": "contract:~021516896452721106944",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021516896452721106944"
+      },
+      "project_title": "Very basic website scraping in Python or Octoparse",
+      "project_description": "I am looking to perform what is hopefully a very, very simple data parsing task that will simply extract the required information from two webpages. The first webpage contains two pieces of information, the second set of webpages have 5 further pieces of information in need to parse.\n\nThe first webpage has about 40-50 click-throughs to the second set of webpages and I would like the resultant output simply put into a .csv that I can then analyse. I am hoping for someone with good web data parsing skills this might not be anything more than an hour or two. For more details, please see the attached .doc file with a more detailed description.\n\nI would prefer any coding to be done in Python - or Octoparse so that I would be able to run the script myself.",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky was excellent - he completed what I needed done in under a day and revised the code a couple of times promptly when I spotted a couple of issues. Would definitely recommend.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 40.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-04-20",
+      "end_date": "2022-05-04",
+      "contract_days": 14,
+      "project_link": "https://www.upwork.com/jobs/~021516896452721106944"
+    },
+    {
+      "case_id": "contract:~1494898631249649664",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1494898631249649664"
+      },
+      "project_title": "Web Scraping Project",
+      "project_description": "Dear friends,\n\nI need help scraping some data from a web page. Please contact me if you are skilled in this area.\n\nThank you",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 110.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-02-20",
+      "end_date": "2022-05-03",
+      "contract_days": 72,
+      "project_link": "https://www.upwork.com/jobs/~1494898631249649664"
+    },
+    {
+      "case_id": "contract:~021494097643310596096",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021494097643310596096"
+      },
+      "project_title": "Web scraper needed for straightforward job (IMDb Pro)",
+      "project_description": "Hi. I am creating a new B2B tool for talent agents in the entertainment industry. I need someone to scrape emails for all talent agents on IMDb Pro for a marketing campaign. That's around 10,000 people.\n\nDeliverables: \n\n- a spreadsheet with their Agency name, their name, email, and number of clients \n- source code",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky gave all the data I needed exactly how I needed it. It was also easy to work with on my own after the handoff.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 40.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-03-03",
+      "end_date": "2022-04-28",
+      "contract_days": 56,
+      "project_link": "https://www.upwork.com/jobs/~021494097643310596096"
+    },
+    {
+      "case_id": "contract:~1491733011487379456",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1491733011487379456"
+      },
+      "project_title": "Extract data from website (european patent office)",
+      "project_description": "I would like to extract information from the European patent office for all patents with an European inventor. Note that the database is large and would require some codes to speed up the data extraction. \nAs a final result of the contract, I would like to have Python codes which extract for each patent registered by European inventors (for example: https://register.epo.org/application?number=EP02718218). The codes should extract all entries available in the register data (see example). Additionally, I would like to have the final data extracted in csv.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 200.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-03-11",
+      "end_date": "2022-04-28",
+      "contract_days": 48,
+      "project_link": "https://www.upwork.com/jobs/~1491733011487379456"
+    },
+    {
+      "case_id": "contract:~021514787867047436288",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021514787867047436288"
+      },
+      "project_title": "Python developer Wanted",
+      "project_description": "Looking for someone who can write a simple Python program for me that can Print out Png's.",
+      "description_is_title_only": false,
+      "client_feedback": "It was a pleasure working witth this freelancer. He was able to fulfill all of my requirements.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 20.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-04-17",
+      "end_date": "2022-04-20",
+      "contract_days": 3,
+      "project_link": "https://www.upwork.com/jobs/~021514787867047436288"
+    },
+    {
+      "case_id": "contract:~1505834328820396032",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1505834328820396032"
+      },
+      "project_title": "You will get 10K random generated NFT collections based on your layers artworks",
+      "project_description": "You will get 10K random generated NFT collections based on your layers artworks",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 120.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-03-21",
+      "end_date": "2022-03-27",
+      "contract_days": 6,
+      "project_link": "https://www.upwork.com/jobs/~1505834328820396032"
+    },
+    {
+      "case_id": "contract:~1503690524359081984",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1503690524359081984"
+      },
+      "project_title": "You will get 10K random generated NFT collections based on your layers artworks",
+      "project_description": "You will get 10K random generated NFT collections based on your layers artworks",
+      "description_is_title_only": true,
+      "client_feedback": "Beautiful work! What a rockstar Ekky is. I’m beyond satisfied with the process and with the result. I will definitely work with him again!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 220.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-03-15",
+      "end_date": "2022-03-24",
+      "contract_days": 9,
+      "project_link": "https://www.upwork.com/jobs/~1503690524359081984"
+    },
+    {
+      "case_id": "contract:~1495689766031777792",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1495689766031777792"
+      },
+      "project_title": "Extract information from website with environment data",
+      "project_description": "Extract information from website with environment data",
+      "description_is_title_only": true,
+      "client_feedback": "It was real pleasure working with Ekky! Highly recommended! Thank you!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 80.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-02-21",
+      "end_date": "2022-03-03",
+      "contract_days": 10,
+      "project_link": "https://www.upwork.com/jobs/~1495689766031777792"
+    },
+    {
+      "case_id": "contract:~1495758186894249984",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1495758186894249984"
+      },
+      "project_title": "You will get 10K random generated NFT collections based on your layers artworks",
+      "project_description": "You will get 10K random generated NFT collections based on your layers artworks",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 120.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-02-21",
+      "end_date": "2022-02-23",
+      "contract_days": 2,
+      "project_link": "https://www.upwork.com/jobs/~1495758186894249984"
+    },
+    {
+      "case_id": "contract:~021492326849650216960",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021492326849650216960"
+      },
+      "project_title": "simple scraping of Fortune 500 rankings",
+      "project_description": "I need a freelancer who can scrape data---using Python (BeautifulSoup, Scrapy etc.) or R---and arrange it into a csv file. I need all Fortune 500 rankings from 1955 to 1995. But it's actually not too difficult.\n\nThe data is available from the following url(s):\nhttps://money.cnn.com/magazines/fortune/fortune500_archive/full/1955/1.html\n\nFrom his page, I need to extract \"Rank\", \"Company Name\", \"Revenues\", \"Profits\", \"Company ID\", and \"year\"\n\nThe first four columns---\"Rank\", \"Company Name\", \"Revenues\", and \"Profit\"---are straightforward. They're directly from the webpage.\n\nFor \"Company ID\", I need you to extract a number from a url that is linked to each of the company. For example, you'll see that the company \"General Motors\" is linked to the following page:\nhttps://money.cnn.com/magazines/fortune/fortune500_archive/snapshots/1955/563.html. \n\nI want General Motor's Company ID would be 563. That is, I need you to extract the number before the \".html\" and after the year. (i.e., 1995/[563].html). Likewise, the company ID for Exxon would be 496. etc.\n\n\"Year\" would obviously be 1955, in this case.\n\nYou'll notice that this page only has rankings from 1-100. But I need the ranks from 1-500. Thus, once everything is scraped from this page, please move to the next page:\nhttps://money.cnn.com/magazines/fortune/fortune500_archive/full/1955/101.html\n\nThe ranks for 101 -- 200 are available on this page (i.e., 100 ranks per page). Please repeat the same process, and likewise for 201.html, 301.html, 401.html, so that you have all ranks from 1 to 500 for each year.\n\nWhen you are done with year 1955, please move to the next year by going to the following page:\n\nhttps://money.cnn.com/magazines/fortune/fortune500_archive/full/1956/1.html\n\nRepeat the entire process described above for 1956. You'll notice that the url names are systematic, so you can navigate between them easily.\n\nI need data for years from 1955 to 1995. That is, for 41 years. For all 500 ranks. So please scrape all 41 years. (i.e., in terms of url from \".../1955/1.html\" to \"1995/401.html\")\n\nThis will lead to an output like the attached file -- but of course with more rows:\n\nTo complete the project, I would like to ask for the csv output AND codes (python or R) so that I could reuse it later.\n\nThank you very much",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky did a great job",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-02-12",
+      "end_date": "2022-02-13",
+      "contract_days": 1,
+      "project_link": "https://www.upwork.com/jobs/~021492326849650216960"
+    },
+    {
+      "case_id": "contract:~021492325076344623104",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021492325076344623104"
+      },
+      "project_title": "Python Expert for recursive string parse function",
+      "project_description": "I have a string, example \n\n'II4TU[MJ[QHIZ[DI,TA],SHI[YTM,Z[DO,TA]],THIYTA],OJ2G[E4A,I[2Q,4A]]]'\n\nI am trying to create a function that recursively generates every combination of values. Could potentially lead to long term work with company",
+      "description_is_title_only": false,
+      "client_feedback": "Working with Ekky was great, I would recommend him to anyone considering his proposal. I'll reach out again if anything similar is needed, thanks!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 54.0,
+      "total_hours": 3.0,
+      "effective_hourly_usd": 18.0,
+      "start_date": "2022-02-12",
+      "end_date": "2022-02-12",
+      "contract_days": 0,
+      "project_link": "https://www.upwork.com/jobs/~021492325076344623104"
+    },
+    {
+      "case_id": "contract:~1489565313947222016",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1489565313947222016"
+      },
+      "project_title": "You will get 10K random generated NFT collections based on your layers artworks",
+      "project_description": "You will get 10K random generated NFT collections based on your layers artworks",
+      "description_is_title_only": true,
+      "client_feedback": "No feedback given",
+      "client_feedback_rating": null,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2022-02-04",
+      "end_date": "2022-02-10",
+      "contract_days": 6,
+      "project_link": "https://www.upwork.com/jobs/~1489565313947222016"
+    },
+    {
+      "case_id": "contract:~021452910468080107520",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021452910468080107520"
+      },
+      "project_title": "Fix a task scheduler (webscrapper, windows 10)",
+      "project_description": "I have a task scheduler for a webscraping tool in that stopped working.\nDespite updating chrome and chrome driver, the task is still failing.\n\nWill provide detailed context and error before engagement",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky is a fantastic freelancer",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 50.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-10-27",
+      "end_date": "2022-01-28",
+      "contract_days": 93,
+      "project_link": "https://www.upwork.com/jobs/~021452910468080107520"
+    },
+    {
+      "case_id": "contract:~021452834939386728448",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021452834939386728448"
+      },
+      "project_title": "Create a script to format data into pandas data frame",
+      "project_description": "Download all the company metrics and facts from the SEC site (data.sec.gov/api/xbrl/companyfacts/) for every company. Once this is done, make data into dataframe.\n\nEach financial quarter should be created as a column and units of data should be ignored which in company facts can be a key in the data. Ideally this should be async using asyncio and possibly multithreaded if needed.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 2.25,
+      "project_reward_usd": 30.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-10-26",
+      "end_date": "2021-11-02",
+      "contract_days": 7,
+      "project_link": "https://www.upwork.com/jobs/~021452834939386728448"
+    },
+    {
+      "case_id": "contract:~021436182848384921600",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021436182848384921600"
+      },
+      "project_title": "Combine all provided layers to generate 1000+ unique images",
+      "project_description": "We have 200 different layers. We need program that generates 1000+ unique combination of images based on the combination table we set in Excel.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 4.0,
+      "project_reward_usd": 150.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-09-10",
+      "end_date": "2021-09-28",
+      "contract_days": 18,
+      "project_link": "https://www.upwork.com/jobs/~021436182848384921600"
+    },
+    {
+      "case_id": "contract:~021426830556526829568",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021426830556526829568"
+      },
+      "project_title": "Parse hub expert/Data scraper to grab details from single HTML table with next pages",
+      "project_description": "Hello I need someone with experience using Parse hub to scrape a website html table for me with many thousand entries.\n\nThe problem I'm facing is that this websites table does not have a conventional \"next page\" button and just lists the pages as numbers to click on. So it requires an if statement to do correctly.\n\nLet me know your experience and why I should work with you",
+      "description_is_title_only": false,
+      "client_feedback": "I hired Ekky to help me with scraping a table of 20,000 websites using Python. He did exactly what I asked for and he did it super fast. I then hired him again to create custom Python scripts going through the websites and gather data. He delivered incredible results and went above and beyond. I highly recommend him for any Python work!",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 70.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-08-16",
+      "end_date": "2021-08-24",
+      "contract_days": 8,
+      "project_link": "https://www.upwork.com/jobs/~021426830556526829568"
+    },
+    {
+      "case_id": "contract:~021419655190785863680",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021419655190785863680"
+      },
+      "project_title": "Scrape order lines from pdf invoices",
+      "project_description": "Hi! I am looking for a script that can scrape / parse a set of pdf files into a CSV / XLSX file. We are talking about a total of ~370 pdf files. I am looking for someone who can automate the work, as I am looking for fast delivery (I am afraid manually extracting the PDFs will take too much time)\nPlease find attached an Excel file, in which I pasted an example of the pdf file and how I would like the data set to look. If it is possible, I will send you 3 PDF examples to see the structure.\n\nTo be a best fit for this project you need:\n\n- Ability to communicate clearly\n- Dedication to meet project deadlines in a timely manner\n- Knowledge of PDF invoices and ability to extract data from them\n- Write “I am a human” at the top of your proposal\n- Attention to details\n- Willingness to sign an NDA",
+      "description_is_title_only": false,
+      "client_feedback": "Good communication and the end result was very well structured",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 100.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-07-28",
+      "end_date": "2021-08-04",
+      "contract_days": 7,
+      "project_link": "https://www.upwork.com/jobs/~021419655190785863680"
+    },
+    {
+      "case_id": "contract:~021419906403347509248",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021419906403347509248"
+      },
+      "project_title": "Automated Bot Script For High Traffic Website",
+      "project_description": "Need to apply for a student visa via website \nhttps://app.bookitit.com/en/hosteds/widgetdefault/2dfa8d208fa12dcbe904341150d0c10ce#services\n\nThe slots for the visa opens at 12am every night. Need a script or automation done on the website which automates the process of \n1. clicking on the link \n2. click continue\n3. click student visa\n4. if it shows \"No slots available.\" on the next page go back to step 1 and repeat.\n5. if slots found then stop the process\n\nrepeat this whole process multiple times in milliseconds",
+      "description_is_title_only": false,
+      "client_feedback": "It was a pleasure to work with Ekky. He accepted my project and completed it in least time possible and that too with precision.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-07-27",
+      "end_date": "2021-07-29",
+      "contract_days": 2,
+      "project_link": "https://www.upwork.com/jobs/~021419906403347509248"
+    },
+    {
+      "case_id": "contract:~021417685578697793536",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021417685578697793536"
+      },
+      "project_title": "Scrape flashscore.com using Python",
+      "project_description": "I want a Python code to scrape this website \"Statistics\" tab meaning I can get \n\"Ball Possession\", \"Goal Attempts\", etc\n\nhttps://www.flashscore.com/match/zcu6cEZM/#match-summary/match-statistics/0\n\nIf can use Selenium, BeautifulSoup would be nice",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 50.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-07-21",
+      "end_date": "2021-07-25",
+      "contract_days": 4,
+      "project_link": "https://www.upwork.com/jobs/~021417685578697793536"
+    },
+    {
+      "case_id": "contract:~021414773970441465856",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021414773970441465856"
+      },
+      "project_title": "Data collection using Instagram API Key",
+      "project_description": "My ad agency is working with a client whose social media is a little hard to understand. This is a reach, but I imagine Instagrams public API key will provide access to a lot of data that would be helpful. Obviously I'd like to see basic data for the last two years of posts -- date of post, number of likes, number of views (if it's a video), number of comment. But I'm hoping to also compare the list of users who like a post against the list of users who follow the account to see what their engagement is among actual followers. I'm also curious to see the rate of growth for their follower count over the past year. \n\nI'm not confident this data exists within the constraints of Instagram's API key, so I'm hoping to bump into someone on here who knows their way around it.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 70.0,
+      "total_hours": 5.83,
+      "effective_hourly_usd": 12.01,
+      "start_date": "2021-07-13",
+      "end_date": "2021-07-14",
+      "contract_days": 1,
+      "project_link": "https://www.upwork.com/jobs/~021414773970441465856"
+    },
+    {
+      "case_id": "contract:~1405364973334343680",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1405364973334343680"
+      },
+      "project_title": "MATLAB app designer plot issue",
+      "project_description": "I'm using the app designer to plot a figure on the axes. After running the app, the plot shows some weird zebra crossing line with crossline on the figure. \n\nDoes anyone know what to do?",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 5.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-06-17",
+      "end_date": "2021-06-28",
+      "contract_days": 11,
+      "project_link": "https://www.upwork.com/jobs/~1405364973334343680"
+    },
+    {
+      "case_id": "contract:~021342621973477257216",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021342621973477257216"
+      },
+      "project_title": "Mechanical engineer",
+      "project_description": "Aerospace to basic designs. Will need to be able to show simulations, tolerance, and analysis reports.",
+      "description_is_title_only": false,
+      "client_feedback": "This money was in the escrow account and I need to get it it out. Thanks for your time",
+      "client_feedback_rating": 2.95,
+      "project_reward_usd": 124.8,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-01-25",
+      "end_date": "2021-05-25",
+      "contract_days": 120,
+      "project_link": "https://www.upwork.com/jobs/~021342621973477257216"
+    },
+    {
+      "case_id": "contract:~021380117136144203776",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021380117136144203776"
+      },
+      "project_title": "3D Product Modelling & Logo Engraving",
+      "project_description": "need assistant creating 3d product models with the logo engraved on the products.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 120.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-04-26",
+      "end_date": "2021-05-06",
+      "contract_days": 10,
+      "project_link": "https://www.upwork.com/jobs/~021380117136144203776"
+    },
+    {
+      "case_id": "contract:~1375225540622069760",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1375225540622069760"
+      },
+      "project_title": "Program an .m file in MATLAB",
+      "project_description": "Hello,\n\nI need a MATLAB programmer to program an .m file to read values from a text file and then save it into a matrix, according to several constraints. The constraints are to be discussed next. This should be very easy for a professional MATLAB programmer.",
+      "description_is_title_only": false,
+      "client_feedback": "Mr. Ekky Armandi was always responsive and delivered exactly what I promised in a matter of few hours. Thank you Mr. Ekky Armandi !",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 10.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-03-26",
+      "end_date": "2021-03-27",
+      "contract_days": 1,
+      "project_link": "https://www.upwork.com/jobs/~1375225540622069760"
+    },
+    {
+      "case_id": "contract:~1366039462271733760",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1366039462271733760"
+      },
+      "project_title": "Python Scripts Required",
+      "project_description": "SCRIPT1:\n\nTarget website: https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-weekly-statistics\n\nScript to download the links:\n(i) \"Weekly road fuel prices (Excel)\"\n(ii) \"Weekly road fuel prices (CSV)\"\n\nIf script is saved in directory ,then download files will be savied in a subdirectory in the parent folder called \"done\" (../done)\n\nNOTE: THE DOWNLOAD LINK CHANGES EACH WEEK\n\nSCRIPT2:\n\nTarget website: https://ec.europa.eu/energy/data-analysis/weekly-oil-bulletin_en\nTarget file: http://ec.europa.eu/energy/observatory/reports/latest_prices_raw_data.xlsx\nTarget link: https://ec.europa.eu/energy/observatory/reports/List-of-WOB.pdf\n\nScript to add latest data into an existing CSV.\nThe existing CSV has the same headers, except for ONE column. The \"existing csv\" first column is a unique key column (\"UKC\").\n\nScript will need to\n\n(1) Save the existing CSV as a back up file\n(1) check the last update date in existing CSV\n(2) Check the \"Target Link\" for more recent updates in Column Data(XLS), if there are recent updates, download those files and add the data (ex headers) into the existing CSV, and populate the (\"UKC)\n(3) If target link does not exist move on \n(4) Check target file - if the data is new data to udpated CSV, then add it + populate \"UKC\", else do not add it\n(5) Save new CSV\n\nThe existing CSV, and new CSV will be located in the (../done) directory.\n\nThings to note:\n1. Commas must be removed in number entries\n2. CSV should be in date order\n3. The number portion of the \"Ticker\" column in the CSV file is the date number",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-03-04",
+      "end_date": "2021-03-06",
+      "contract_days": 2,
+      "project_link": "https://www.upwork.com/jobs/~1366039462271733760"
+    },
+    {
+      "case_id": "contract:~1363471350969425920",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~1363471350969425920"
+      },
+      "project_title": "Python Script Required",
+      "project_description": "Target Website: https://www.tanke-guenstig.de/Heizoelpreise\n\nScript to download the data in the graph showing Heizol and BRENT prices (at the top). The data lives in the source code of the website.\n\nOutput to be a local CSV file, which stores [Date, Heizol Price, Brent Price]\n\nScript should be written to update the CSV file on each run, rather than create a new one entirely.\nFor exampe logic can be:\n\n(a) If CSV file exists (CSV file location to be explained later) - check the data in the CSV file and add new data to the CSV file\n(b) If CSV does not exist, then scrape all the data and write to a new CSV file\n\nIf script is saved in directory ,then the CSV file will be located in a subdirectory in the parent folder called \"done\"",
+      "description_is_title_only": false,
+      "client_feedback": "Proactive friendly freelancer. Quick turnaround of work.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 20.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-02-21",
+      "end_date": "2021-02-28",
+      "contract_days": 7,
+      "project_link": "https://www.upwork.com/jobs/~1363471350969425920"
+    },
+    {
+      "case_id": "contract:~021360868271587479552",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021360868271587479552"
+      },
+      "project_title": "Python Help",
+      "project_description": ".Need. .help .with .python. thank you in advance.",
+      "description_is_title_only": false,
+      "client_feedback": "Excellent work! Delivered the script very fast, was also very responsive and professional. I highly recommend working with him and I will definitely use his services again in the future. Thanks again.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 10.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-02-14",
+      "end_date": "2021-02-14",
+      "contract_days": 0,
+      "project_link": "https://www.upwork.com/jobs/~021360868271587479552"
+    },
+    {
+      "case_id": "contract:~021358315476463640576",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021358315476463640576"
+      },
+      "project_title": "Python Help",
+      "project_description": ".Need. .help .with .python. thank you in advance.",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky delivered good work on helping me with python and I enjoyed working with him. His communication was top-notch, he met all deadlines, and his skills were reasonably strong.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 7.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2021-02-07",
+      "end_date": "2021-02-07",
+      "contract_days": 0,
+      "project_link": "https://www.upwork.com/jobs/~021358315476463640576"
+    },
+    {
+      "case_id": "contract:~021329234211259854848",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021329234211259854848"
+      },
+      "project_title": "Infographic Needed [URGENT]",
+      "project_description": "Looking to reproduce a graph (see attached file). \n\nThe graph will be incorporated into a Medium article. Content will remain exactly the same but has to be visually improved and also match our brand style. \n\nThe goal of the graph is to complement the article and attract viewers to see quickly the message we are communicating. \n\nTimeline is very tight: 24hrs.",
+      "description_is_title_only": false,
+      "client_feedback": "Satisfied with the work. Delivered on time.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 25.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-11-19",
+      "end_date": "2021-01-14",
+      "contract_days": 56,
+      "project_link": "https://www.upwork.com/jobs/~021329234211259854848"
+    },
+    {
+      "case_id": "contract:~021329921247872569344",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021329921247872569344"
+      },
+      "project_title": "I need to re-design all the thumbnails of my Youtube videos",
+      "project_description": "I am looking to re-design all the thumbnails of all the Youtube videos I've been making so far. \n\nIt's a new channel so I want to make it look better and at the end of the work, I would like to keep the same layout you will use so I will be able to create thumbnails myself. \n\nThere aren't many videos but there is a little bit of work to do. \n\nThey have to match the same colours as the other website of the brand which is on a black colour.",
+      "description_is_title_only": false,
+      "client_feedback": "Ekky helped me re-design all my YouTube thumbnails, I’m very happy with the final results! He was very easy to talk to and flexible to any change I needed. Recommended +",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 10.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-12-21",
+      "end_date": "2020-12-25",
+      "contract_days": 4,
+      "project_link": "https://www.upwork.com/jobs/~021329921247872569344"
+    },
+    {
+      "case_id": "contract:~021335036693078351872",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021335036693078351872"
+      },
+      "project_title": "Need to turn png image into 2 editable vectors.",
+      "project_description": "There are 2 objects in a png image i have. I need each object created into an ediable High Quality Vector.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 16.0,
+      "total_hours": 2.0,
+      "effective_hourly_usd": 8.0,
+      "start_date": "2020-12-05",
+      "end_date": "2020-12-09",
+      "contract_days": 4,
+      "project_link": "https://www.upwork.com/jobs/~021335036693078351872"
+    },
+    {
+      "case_id": "contract:~021318323332299837440",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021318323332299837440"
+      },
+      "project_title": "Mechanical drawings for fabrication, include assembly and take offs and bom etc.",
+      "project_description": "We wish to professionalize our library of mechanical drawings. We produce our own product line of tools used by public works clients, including cities and contractors who serve them. We will provide hand sketches, photos, sometimes video content to depict the items which we ask you use to create professional quality mechanical drawings. The work output will include an assembly drawing with drawings for all components, including dimensions, and a bills of materials. If you can add renderings, that would be a plus, but is not required.",
+      "description_is_title_only": false,
+      "client_feedback": null,
+      "client_feedback_rating": 3.4,
+      "project_reward_usd": 4.0,
+      "total_hours": 0.5,
+      "effective_hourly_usd": 8.0,
+      "start_date": "2020-10-22",
+      "end_date": "2020-10-24",
+      "contract_days": 2,
+      "project_link": "https://www.upwork.com/jobs/~021318323332299837440"
+    },
+    {
+      "case_id": "contract:~021296255909154549760",
+      "source": {
+        "file": "archive/SEO projects/upwork-completed-jobs-reviews.csv",
+        "ref": "https://www.upwork.com/jobs/~021296255909154549760"
+      },
+      "project_title": "Mechanical design robot specialist",
+      "project_description": "Looking for medium level CAD specialist.",
+      "description_is_title_only": false,
+      "client_feedback": "The freelancer is excellent, quick to deliver and punctual, and I recommend clients to contract with him. And complete the project in an impressive and attractive price. He does not want to amend the results to reach a result that satisfies the customer. I will contract with him later. !!!!!! Ekky Armandi is lucky to work with him.",
+      "client_feedback_rating": 5.0,
+      "project_reward_usd": 130.0,
+      "total_hours": 0.0,
+      "effective_hourly_usd": null,
+      "start_date": "2020-08-20",
+      "end_date": "2020-08-30",
+      "contract_days": 10,
+      "project_link": "https://www.upwork.com/jobs/~021296255909154549760"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "positioning": "Solo senior full-stack developer. Python and TypeScript. Builds backends, APIs, integrations, and AI features as one person, start to finish. 108+ Upwork jobs delivered.",
+  "timezone": null,
+  "core_stack": [
+    "Python: FastAPI, Django, Flask",
+    "TypeScript and JavaScript",
+    "React, Next.js",
+    "PostgreSQL",
+    "REST APIs",
+    "Docker",
+    "background workers and queues"
+  ],
+  "secondary_stack": [
+    "React Native with Expo",
+    "Chrome extensions",
+    "Telegram bots",
+    "n8n and workflow automation",
+    "scraping with Scrapy or Playwright",
+    "LLM features, RAG, agents, MCP servers"
+  ],
+  "weak_areas": [
+    "pure UI or brand design",
+    "WordPress theme and plugin internals",
+    "native Swift or Kotlin apps",
+    "enterprise platforms such as Salesforce, SAP, or Dynamics",
+    "ongoing Kubernetes or SRE ownership",
+    "model training and data science research",
+    "blockchain and smart contracts"
+  ],
+  "rate_floor_usd_per_hour": 35,
+  "target_rate_usd_per_hour": 55,
+  "package_floor_usd": 800,
+  "availability": "fixed-scope engagements now, retainers after a first release",
+  "verified_evidence": [
+    {
+      "claim": "Bassolation: FastAPI plus React web app running an AI audio separation pipeline with queued background workers",
+      "source": "src/content/projects/bassolation.md",
+      "kind": "portfolio"
+    },
+    {
+      "claim": "Survey Dashboard: internal tool replacing manual spreadsheet work",
+      "source": "src/content/projects/survey-dashboard.md",
+      "kind": "portfolio"
+    },
+    {
+      "claim": "Look Estate, OpsGuide, Uninote: full-stack product builds shipped end to end",
+      "source": "src/content/projects/",
+      "kind": "portfolio"
+    },
+    {
+      "claim": "108 delivered Upwork contracts, mostly Python backends and data systems",
+      "source": "history.completed.json",
+      "kind": "aggregate"
+    }
+  ],
+  "evidence_receipts": [
+    {
+      "project_title": "Full-stack developer for web application",
+      "project_link": "https://www.upwork.com/jobs/~1773224113039028224",
+      "reward_usd": 7973.32,
+      "hours": 398.67,
+      "rating": 5.0,
+      "feedback_excerpt": "Ekky is a hardworking full-stack developer who takes the time to understand the business logic behind the code. He approaches tasks with dedication and delivers solid results. A reliable developer and a pleasure to work with."
+    },
+    {
+      "project_title": "Django developer needed for creating a web interface for an existing Python application.",
+      "project_link": "https://www.upwork.com/jobs/~021609108360511471616",
+      "reward_usd": 2457.0,
+      "hours": 136.5,
+      "rating": 5.0,
+      "feedback_excerpt": "Job well done."
+    },
+    {
+      "project_title": "Data Scraping Developer (Python)",
+      "project_link": "https://www.upwork.com/jobs/~1692775563131699200",
+      "reward_usd": 480.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Ekky was very helpful in building the data scraper we needed to build."
+    },
+    {
+      "project_title": "You will get 10K random generated NFT collections based on your layers artworks",
+      "project_link": "https://www.upwork.com/jobs/~1503690524359081984",
+      "reward_usd": 220.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Beautiful work! What a rockstar Ekky is. I’m beyond satisfied with the process and with the result. I will definitely work with him again!"
+    },
+    {
+      "project_title": "Web Scrape Set up",
+      "project_link": "https://www.upwork.com/jobs/~021703225910045999104",
+      "reward_usd": 210.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "I was very pleased with Ekky's work.  He was fast and took time to explain patiently when I had questions about the solution he built for my situation.  We had two zoom calls that were very helpful in addition to the work completed.  And on top of that he was quick to explore oth"
+    },
+    {
+      "project_title": "Mechanical design robot specialist",
+      "project_link": "https://www.upwork.com/jobs/~021296255909154549760",
+      "reward_usd": 130.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "The freelancer is excellent, quick to deliver and punctual, and I recommend clients to contract with him. And complete the project in an impressive and attractive price. He does not want to amend the results to reach a result that satisfies the customer. I will contract with him "
+    },
+    {
+      "project_title": "simple scraping of Fortune 500 rankings",
+      "project_link": "https://www.upwork.com/jobs/~021492326849650216960",
+      "reward_usd": 100.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Ekky did a great job"
+    },
+    {
+      "project_title": "Scrape order lines from pdf invoices",
+      "project_link": "https://www.upwork.com/jobs/~021419655190785863680",
+      "reward_usd": 100.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Good communication and the end result was very well structured"
+    },
+    {
+      "project_title": "Extract information from website with environment data",
+      "project_link": "https://www.upwork.com/jobs/~1495689766031777792",
+      "reward_usd": 80.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "It was real pleasure working with Ekky! Highly recommended! Thank you!"
+    },
+    {
+      "project_title": "Need an IG Scraper which can id details from followers",
+      "project_link": "https://www.upwork.com/jobs/~021527546847491317760",
+      "reward_usd": 70.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Ekky is great to work with, reliable, and very helpful. He is also very knowledgeable and creative in his approach. Will work with him again in the future."
+    },
+    {
+      "project_title": "Parse hub expert/Data scraper to grab details from single HTML table with next pages",
+      "project_link": "https://www.upwork.com/jobs/~021426830556526829568",
+      "reward_usd": 70.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "I hired Ekky to help me with scraping a table of 20,000 websites using Python. He did exactly what I asked for and he did it super fast. I then hired him again to create custom Python scripts going through the websites and gather data. He delivered incredible results and went abo"
+    },
+    {
+      "project_title": "Debug and run my Python scraper",
+      "project_link": "https://www.upwork.com/jobs/~021705014554060713984",
+      "reward_usd": 56.67,
+      "hours": 2.83,
+      "rating": 5.0,
+      "feedback_excerpt": "Nice working with Ekky"
+    },
+    {
+      "project_title": "Python Expert for recursive string parse function",
+      "project_link": "https://www.upwork.com/jobs/~021492325076344623104",
+      "reward_usd": 54.0,
+      "hours": 3.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Working with Ekky was great, I would recommend him to anyone considering his proposal. I'll reach out again if anything similar is needed, thanks!"
+    },
+    {
+      "project_title": "Fix a task scheduler (webscrapper, windows 10)",
+      "project_link": "https://www.upwork.com/jobs/~021452910468080107520",
+      "reward_usd": 50.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Ekky is a fantastic freelancer"
+    },
+    {
+      "project_title": "Quick Scraping Job",
+      "project_link": "https://www.upwork.com/jobs/~1607090540610289664",
+      "reward_usd": 45.0,
+      "hours": 0.0,
+      "rating": 5.0,
+      "feedback_excerpt": "Outstanding work!! Ekky used advanced Python packages to complete an automation project. I highly recommend him for all Python dev tasks -- great problem solver, skilled communicator. This guy is definitely going far as a freelancer!"
+    }
+  ],
+  "lane_evidence_counts": {
+    "python_development": 58,
+    "ai_system_integration": 36,
+    "api_development": 26,
+    "custom_software_web_app": 5
+  },
+  "weak_area_mentions_in_past_work": {
+    "blockchain": 9,
+    "design": 5,
+    "native_mobile": 1,
+    "enterprise_platform": 1
+  },
+  "provisional": [
+    "rate_floor_usd_per_hour",
+    "target_rate_usd_per_hour",
+    "package_floor_usd",
+    "timezone",
+    "weak_areas",
+    "availability",
+    "core_stack",
+    "secondary_stack",
+    "verified_evidence"
+  ],
+  "notes": "lane_evidence_counts and weak_area_mentions_in_past_work are keyword counts over completed contract titles and descriptions. They show repetition, not outcomes. Several past contracts have no description beyond the title, so counts understate."
+}

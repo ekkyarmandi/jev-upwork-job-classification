@@ -1,0 +1,223 @@
+{
+  "schema_version": "jev-upwork-state/1",
+  "generated_by": "scripts/normalize_jev_states.py",
+  "outputs": {
+    "upwork-jobs.csv": "All 331 open jobs, one row each, with the 14 provisional labels folded in. Dotted headers are paths into the request state.",
+    "freelancer.json": "Fixed capability baseline, merged into every request state.",
+    "history.completed.json": "Completed contracts plus realized-rate aggregates."
+  },
+  "counts": {
+    "open_jobs": 331,
+    "open_jobs_by_source": {
+      "healthcare": 12,
+      "fastapi": 316,
+      "md": 3
+    },
+    "completed_contracts": 101,
+    "labeled_jobs": 14,
+    "csv_rows": 331,
+    "csv_columns": 64
+  },
+  "csv_column_types": {
+    "list_columns": [
+      "client.signals",
+      "job.attachments",
+      "job.client_stated_deliverables",
+      "job.location_restrictions",
+      "job.required_qualifications",
+      "job.skills.general",
+      "job.skills.mandatory",
+      "job.skills.nice_to_have"
+    ],
+    "bool_columns": [
+      "client.payment_verified",
+      "job.enterprise_job",
+      "job.premium",
+      "seed.hard_case",
+      "seed.is_technical_engagement"
+    ],
+    "numeric_columns": [
+      "client.active_hires",
+      "client.avg_hourly_paid_usd",
+      "client.hire_rate_pct",
+      "client.hires",
+      "client.jobs_posted",
+      "client.member_days",
+      "client.open_jobs",
+      "client.rating",
+      "client.reviews",
+      "client.total_spend_usd",
+      "job.bid_range.average_usd",
+      "job.bid_range.high_usd",
+      "job.bid_range.low_usd",
+      "job.budget.fixed_usd",
+      "job.budget.hourly_max_usd",
+      "job.budget.hourly_midpoint_usd",
+      "job.budget.hourly_min_usd",
+      "job.competition.interviews",
+      "job.competition.invites_sent",
+      "job.connects_required",
+      "job.description_chars",
+      "job.persons_to_hire",
+      "job.posted_age_days"
+    ],
+    "everything_else": "text; empty string means the source did not carry the field"
+  },
+  "coverage": {
+    "open_jobs_missing_description": 0,
+    "open_jobs_with_deliverable_bullets": 151,
+    "open_jobs_with_client_stats": 324,
+    "open_jobs_with_proposal_count": 328,
+    "open_jobs_with_rate": 269,
+    "null_fields_are_expected": "Fields absent from a source stay null rather than being guessed. avg_hourly_paid_usd is null everywhere because no source carries it."
+  },
+  "distributions": {
+    "budget_band": {
+      "under_500": 71,
+      "not_stated": 62,
+      "25_40": 56,
+      "15_25": 33,
+      "40_60": 32,
+      "500_1500": 26,
+      "1500_5000": 17,
+      "60_plus": 13,
+      "under_15": 11,
+      "5000_15000": 9,
+      "15000_plus": 1
+    },
+    "proposals_band": {
+      "50_plus": 132,
+      "20_49": 123,
+      "10_14": 25,
+      "15_19": 22,
+      "5_9": 17,
+      "0_4": 9
+    }
+  },
+  "band_definitions": {
+    "budget.band.hourly": [
+      {
+        "band": "under_15",
+        "min": 0,
+        "max": 15
+      },
+      {
+        "band": "15_25",
+        "min": 15,
+        "max": 25
+      },
+      {
+        "band": "25_40",
+        "min": 25,
+        "max": 40
+      },
+      {
+        "band": "40_60",
+        "min": 40,
+        "max": 60
+      },
+      {
+        "band": "60_plus",
+        "min": 60,
+        "max": null
+      }
+    ],
+    "budget.band.fixed_price": [
+      {
+        "band": "under_500",
+        "min": 0,
+        "max": 500
+      },
+      {
+        "band": "500_1500",
+        "min": 500,
+        "max": 1500
+      },
+      {
+        "band": "1500_5000",
+        "min": 1500,
+        "max": 5000
+      },
+      {
+        "band": "5000_15000",
+        "min": 5000,
+        "max": 15000
+      },
+      {
+        "band": "15000_plus",
+        "min": 15000,
+        "max": null
+      }
+    ],
+    "competition.proposals_band": [
+      {
+        "band": "0_4",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "band": "5_9",
+        "min": 5,
+        "max": 10
+      },
+      {
+        "band": "10_14",
+        "min": 10,
+        "max": 15
+      },
+      {
+        "band": "15_19",
+        "min": 15,
+        "max": 20
+      },
+      {
+        "band": "20_49",
+        "min": 20,
+        "max": 50
+      },
+      {
+        "band": "50_plus",
+        "min": 50,
+        "max": null
+      }
+    ],
+    "competition.proposals_text_map": {
+      "less than 5": "0_4",
+      "5 to 10": "5_9",
+      "5 to 15": "5_9",
+      "10 to 15": "10_14",
+      "15 to 20": "15_19",
+      "20 to 50": "20_49",
+      "50+": "50_plus"
+    }
+  },
+  "computed_in_code_never_asked_of_jev": [
+    "budget.band",
+    "budget.hourly_midpoint_usd",
+    "competition.proposals_band",
+    "posted_age_days",
+    "client.member_days",
+    "client.total_spend_usd",
+    "client.avg_hourly_paid_usd",
+    "history.completed.json aggregates"
+  ],
+  "history_aggregates": {
+    "contracts": 101,
+    "contracts_with_reward": 101,
+    "contracts_with_hours": 20,
+    "contracts_with_both_reward_and_hours": 20,
+    "rewards_total_usd": 30415.63,
+    "hours_total": 1174.0,
+    "reward_weighted_rate_usd": 17.99,
+    "realized_rate_p10_usd": 9.0,
+    "realized_rate_median_usd": 17.01,
+    "realized_rate_p90_usd": 22.08,
+    "rating_mean": 4.82,
+    "ratings_count": 56,
+    "contracts_with_written_feedback": 78,
+    "contracts_title_only_description": 18,
+    "first_start_date": "2020-08-11",
+    "last_end_date": "2026-01-13",
+    "note": "Reward-weighted rate is the only trustworthy realized rate. Most contracts carry zero hours because they were fixed-price, so the per-contract realized-rate percentiles come from a small subset."
+  }
+}
