@@ -7,7 +7,6 @@ gates, weights, thresholds, and every number. Jev owns the semantic read.
 Data comes from ./data, produced by ekky.dev/scripts/normalize_jev_states.py:
   upwork-jobs.csv        all 331 open jobs, one row each, labels folded in
   freelancer.json        fixed capability baseline, merged into every state
-  manifest.json          band definitions, column types, coverage stats
   history.completed.json completed contracts and realized-rate aggregates
 
 Examples:

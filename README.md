@@ -197,7 +197,7 @@ prefer `python main.py` on its own, activate the environment first with
 
 ## Data
 
-All four files in `data/` are committed, so the classifier runs standalone with no
+All three files in `data/` are committed, so the classifier runs standalone with no
 upstream step. Treat them as inputs rather than something you regenerate.
 
 | File | Contents |
@@ -205,7 +205,6 @@ upstream step. Treat them as inputs rather than something you regenerate.
 | `upwork-jobs.csv` | 331 open jobs, one row each, 64 columns, dotted headers are paths into the request state |
 | `freelancer.json` | the fixed capability baseline, merged into every state |
 | `history.completed.json` | 101 completed contracts plus realized-rate aggregates |
-| `manifest.json` | band definitions, column types, coverage stats, and what is computed in code vs asked of Jev |
 
 Sources in the CSV: `healthcare` (12 curated labeled jobs), `fastapi` (316),
 `md` (3). Fourteen jobs carry provisional seed labels for accuracy checks.
