@@ -1,23 +1,16 @@
 # Jev Upwork Job Classification
 
-An Upwork job triage tool for one specific freelancer. It reads every open job in
-`data/upwork-jobs.csv`, judges how well that job fits the freelancer's stack, lanes,
-rate floor, and evidence, and returns one decision per job: **apply**, **review**,
-or **skip**.
+Triage tool that scores every open Upwork job in `data/upwork-jobs.csv` against one
+freelancer's profile and returns **apply**, **review**, or **skip** per job.
 
-The point is not to "let an AI decide". It is the opposite split of
-responsibility:
+- **Jev owns the semantic read.** One job description in, typed answers out: a
+  probability, a choice from a fixed list, a graded score. No prose to parse.
+- **Code owns every number.** Weights, thresholds, and the decision rule are plain
+  Python in `main.py`. Change a number, re-rank; no prompt editing.
 
-- **Jev owns the semantic read.** It reads one job description and returns typed
-  answers: probabilities on yes/no questions, one choice from a fixed list, and a
-  graded score on an ordered scale. No generated prose to parse.
-- **Code owns every number.** Weights, gate thresholds, fit bands, competition
-  penalties, and the decision rule all live in `main.py` as plain Python. You can
-  read the arithmetic, argue with it, and change it without touching a prompt.
-
-Built with [TypeSafe AI](https://typesafe.ai) and its flagship System One model,
-**Jev**, through the [TypeSafe Python SDK](https://docs.typesafe.ai/sdk/python).
-Jobs come from [Upwork](https://www.upwork.com).
+Built with [TypeSafe AI](https://typesafe.ai) and its System One model **Jev** via
+the [TypeSafe Python SDK](https://docs.typesafe.ai/sdk/python), with jobs from
+[Upwork](https://www.upwork.com).
 
 ## What it does
 
@@ -113,13 +106,6 @@ git clone https://github.com/ekkyarmandi/jev-upwork-job-classification.git
 cd jev-upwork-job-classification
 ```
 
-Over SSH:
-
-```bash
-git clone git@github.com:ekkyarmandi/jev-upwork-job-classification.git
-cd jev-upwork-job-classification
-```
-
 The repo is self-contained. The job data in `data/` is committed, so no upstream
 generation step is needed before your first run.
 
@@ -145,7 +131,17 @@ Do not reach for `pip install -e .`. There is no `[build-system]` in
 `pyproject.toml`, so an editable install only resolves under a modern pip plus
 Python 3.11 or newer, and buys you nothing for a single script.
 
-### 3. Configure your key
+### 3. Create and configure your API key
+
+The key is free to create. Every Jev request is authorised by it.
+
+1. **Sign in** at the TypeSafe console: [console.typesafe.ai](https://console.typesafe.ai).
+   You can also try Jev with no setup in the
+   [Playground](https://console.typesafe.ai/playground), which is a good way to see
+   the question-and-answer shape before writing any code.
+2. **Create a key** from the keys page: [console.typesafe.ai/keys](https://console.typesafe.ai/keys).
+   Copy it when it is shown.
+3. **Put it in `.env`.** The file is gitignored, so the key is never committed:
 
 ```bash
 cp .env.example .env
@@ -158,8 +154,15 @@ TYPESAFE_API_KEY=your-key-here
 JEV_MODEL=jev-latest
 ```
 
-`.env` is gitignored, so your key is never committed. Billing is **input only** at
-`$42 per billion input tokens`; output tokens are free, and Jev's answers are short.
+`main.py` reads `TYPESAFE_API_KEY` through `python-decouple` and passes it to
+`TypeSafeClient` explicitly. If your key is missing, the run stops with
+`no API key. set TYPESAFE_API_KEY in .env` and exit code `2`. If the key is wrong
+or revoked, the API returns an `authentication_error`, the job is reported as
+`error`, and the run exits `1`. Under the hood this becomes a bearer token sent to
+`https://api.typesafe.ai/v1/systemone`.
+
+Billing is **input only** at `$42 per billion input tokens`; output tokens are free,
+and Jev's answers are short.
 
 Note: `.env.example` currently ships the model key misspelled as `JEV_MODEl`
 (lowercase `l`). It is harmless because `main.py` falls back to the default
@@ -194,9 +197,8 @@ prefer `python main.py` on its own, activate the environment first with
 
 ## Data
 
-`data/` is generated, not hand-written. It is produced by
-`ekky.dev/scripts/normalize_jev_states.py` (a sibling repo) and committed here so
-the classifier runs standalone.
+All four files in `data/` are committed, so the classifier runs standalone with no
+upstream step. Treat them as inputs rather than something you regenerate.
 
 | File | Contents |
 | --- | --- |
@@ -297,15 +299,8 @@ Two things to watch:
 To change the shape of the state itself - new job fields, a different client
 block, different band definitions - edit `build_state()` / `prune()` in `main.py`
 and the matching CSV column-type sets (`CSV_LIST_COLUMNS`, `CSV_BOOL_COLUMNS`,
-`CSV_NUMERIC_COLUMNS`). Regenerating the CSV itself happens upstream in
-`ekky.dev/scripts/normalize_jev_states.py`.
-
-## Cost and limits
-
-- One request per job, 13 questions batched in. Input-only billing.
-- `--dry-run` builds and prints states without calling the API, so you can inspect
-  the exact payload for free.
-- Exit codes: `0` clean, `1` API errors occurred, `2` bad input.
+`CSV_NUMERIC_COLUMNS`). Those sets must stay in sync with the CSV headers, since
+the dotted header names are the paths into the state.
 
 ## References
 
@@ -314,3 +309,12 @@ and the matching CSV column-type sets (`CSV_LIST_COLUMNS`, `CSV_BOOL_COLUMNS`,
 - Python SDK - [docs.typesafe.ai/sdk/python](https://docs.typesafe.ai/sdk/python)
 - System One concepts - [docs.typesafe.ai/concepts/system-one](https://docs.typesafe.ai/concepts/system-one)
 - Upwork - [upwork.com](https://www.upwork.com)
+- TypeSafe agent skill - [skills/typesafe-ai/SKILL.md](https://github.com/typesafe-ai/skills/blob/main/skills/typesafe-ai/SKILL.md)
+
+If you want to build something like this of your own, the agent skill above is the
+fastest way in. It teaches a coding agent how to design TypeSafe questions and
+compose them in code, which is the same split this project follows. Install it with:
+
+```bash
+npx skills add typesafe-ai/skills --skill typesafe-ai
+```
