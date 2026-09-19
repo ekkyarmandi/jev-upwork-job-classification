@@ -1,9 +1,10 @@
 [project]
-name = "jev"
+name = "jev-upwork-job-classification"
 version = "0.1.0"
-description = "Add your description here"
+description = "Upwork job classification to match with freelancer preference and skill"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "python-decouple>=3.8",
     "typesafe-sdk>=0.7.0",
 ]

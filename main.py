@@ -24,13 +24,14 @@ from __future__ import annotations
 import argparse
 import csv
 import json
-import os
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
+
+from decouple import config
 
 from typesafe_sdk import (
     Choice,
@@ -49,7 +50,7 @@ DATA_DIR = ROOT / "data"
 # re-rank; the questions and the state do not need to change.
 # ---------------------------------------------------------------------------
 
-DEFAULT_MODEL = os.environ.get("JEV_MODEL", "jev-latest")
+DEFAULT_MODEL = config("JEV_MODEL", default="jev-latest")
 
 # Input-only billing. Jev charges per input token and output tokens are free.
 INPUT_USD_PER_BTOK = 42.0
@@ -543,28 +544,6 @@ QUESTIONS, LEVEL_COUNTS = build_questions()
 # ---------------------------------------------------------------------------
 # Environment and data loading
 # ---------------------------------------------------------------------------
-
-
-def load_env() -> None:
-    """Read .env and bridge TYPESAFE_AI_API_KEY to the name the SDK expects.
-
-    The SDK reads TYPESAFE_API_KEY. This project's .env uses TYPESAFE_AI_API_KEY.
-    Both are accepted so existing tooling keeps working.
-    """
-    env_path = ROOT / ".env"
-    if env_path.exists():
-        for line in env_path.read_text(encoding="utf-8").splitlines():
-            line = line.strip()
-            if not line or line.startswith("#") or "=" not in line:
-                continue
-            key, _, value = line.partition("=")
-            os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
-
-    if not os.environ.get("TYPESAFE_API_KEY"):
-        for alias in ("TYPESAFE_AI_API_KEY", "TYPESAFE_KEY"):
-            if os.environ.get(alias):
-                os.environ["TYPESAFE_API_KEY"] = os.environ[alias]
-                break
 
 
 def load_json(name: str) -> Any:
@@ -1070,19 +1049,16 @@ def main() -> int:
             print(f"  {name:<32} {kind}")
         return 0
 
-    load_env()
-    if not os.environ.get("TYPESAFE_API_KEY"):
-        print(
-            "no API key. set TYPESAFE_API_KEY or TYPESAFE_AI_API_KEY in ../Jev/.env",
-            file=sys.stderr,
-        )
+    api_key = config("TYPESAFE_API_KEY", default=None)
+    if not api_key:
+        print(f"no API key. set TYPESAFE_API_KEY in .env", file=sys.stderr)
         return 2
 
     retry = RetryPolicy(max_retries=4, backoff_initial=1.0, backoff_max=20.0)
     started = time.time()
     verdicts: list[Verdict] = []
 
-    with TypeSafeClient(model=args.model, retry=retry) as client:
+    with TypeSafeClient(api_key=api_key, model=args.model, retry=retry) as client:
         if args.concurrency <= 1:
             for index, entry in enumerate(entries, 1):
                 verdict = classify_one(client, entry, freelancer, args.max_chars)
